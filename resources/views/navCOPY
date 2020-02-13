@@ -1,0 +1,247 @@
+
+
+<div id="top-info"><strong>Registration begins January 21st 2020!</strong></div>
+<div class="container-fluid banner sticky-top">
+<nav class="navbar navbar-expand-xl navbar-light ">
+        <div class="navbar-header">
+        <a class="navbar-brand navbar-brand-centered" href="/"><img id="logo-short" src="{{ asset('images\Camp_Logo_Resized.png')}}"  alt="Camp Logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav left">
+                <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item dropdown ">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-target="dropdown_target" href="/parents">Info for Parents
+                      <span class="caret"></span>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown_target">
+                      <a href="" class="dropdown-item">Dates & Rates</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="/map" class="dropdown-item">Location & Directions</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="" class="dropdown-item">A Typical Day at Pleasantview</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="" class="dropdown-item">Registration</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="/director" class="dropdown-item">Meet the Director</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown ">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-target="dropdown_target" href="/parents">Info for Campers
+                      <span class="caret"></span>
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown_target">
+                      <a href="" class="dropdown-item">Dates & Rates</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="album" class="dropdown-item">Photo Album</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="highlightVideo" class="dropdown-item">Highlight Videos</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="" class="dropdown-item">Registration</a>
+                      <div class="dropdown-divider"></div>
+                      <a href="/director" class="dropdown-item">Meet the Director</a>
+                    </div>
+                </li>
+            </ul>
+            <ul class="navbar-nav right ">
+                <li class="nav-item">
+                    <a class="nav-link" href="staff">Get Involved</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="register">Registration</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about">About</a>
+                </li>
+            </ul>
+        </div>
+
+</nav>
+
+</div>
+
+
+
+
+
+{{-- Backup incase new code doesn't work --}}
+
+<div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav left">
+        <li class="nav-item">
+        <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-target="dropdown_target" href="/parents">Info for Parents
+              <span class="caret"></span>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdown_target">
+              <a href="" class="dropdown-item">Dates & Rates</a>
+              <div class="dropdown-divider"></div>
+              <a href="/map" class="dropdown-item">Location & Directions</a>
+              <div class="dropdown-divider"></div>
+              <a href="" class="dropdown-item">A Typical Day at Pleasantview</a>
+              <div class="dropdown-divider"></div>
+              <a href="" class="dropdown-item">Registration</a>
+              <div class="dropdown-divider"></div>
+              <a href="/director" class="dropdown-item">Meet the Director</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-target="dropdown_target" href="/parents">Info for Campers
+              <span class="caret"></span>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdown_target">
+              <a href="" class="dropdown-item">Dates & Rates</a>
+              <div class="dropdown-divider"></div>
+              <a href="album" class="dropdown-item">Photo Album</a>
+              <div class="dropdown-divider"></div>
+              <a href="highlightVideo" class="dropdown-item">Highlight Videos</a>
+              <div class="dropdown-divider"></div>
+              <a href="" class="dropdown-item">Registration</a>
+              <div class="dropdown-divider"></div>
+              <a href="/director" class="dropdown-item">Meet the Director</a>
+            </div>
+        </li>
+    </ul>
+    <ul class="navbar-nav right ">
+        <li class="nav-item">
+            <a class="nav-link" href="staff">Get Involved</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="register">Registration</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="about">About</a>
+        </li>
+    </ul>
+</div>
+
+</nav>
+
+</div>
+
+
+
+
+
+
+
+{{-- OG NAV --}}
+
+{{-- <div id="top-info"><strong>Registration begins January 21st 2020!</strong></div>
+
+<nav class="navbar navbar-expand-lg  sticky-top p-0 m-0 navbar-light bg-light">
+<div class="container-fluid  justify-content-center p-0">
+
+  <button class="navbar-toggler second-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <div class="animated-icon2"><span></span><span></span><span></span><span></span></div>
+</button>
+    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto ">
+            <hr class="light mobile">
+          <li class="nav-item ">
+              <a class="nav-link " href="/">Home</a>
+          </li>
+          <hr class="light mobile">
+          <li class="nav-item dropdown ">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-target="dropdown_target" href="/parents">Parents
+                <span class="caret"></span>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="dropdown_target">
+                <a href="" class="dropdown-item">Dates & Rates</a>
+                <div class="dropdown-divider"></div>
+                <a href="/map" class="dropdown-item">Location & Directions</a>
+                <div class="dropdown-divider"></div>
+                <a href="" class="dropdown-item">A Typical Day at Pleasantview</a>
+                <div class="dropdown-divider"></div>
+                <a href="" class="dropdown-item">Registration</a>
+                <div class="dropdown-divider"></div>
+                <a href="/director" class="dropdown-item">Meet the Director</a>
+              </div>
+          </li>
+          <hr class="light mobile">
+          <li class="nav-item ">
+              <a class="nav-link " href="#">Campers</a>
+          </li>
+          <hr class="light mobile">
+      </ul>
+    </div>
+    <div class="showUp">
+      <ul class="navbar-nav  m-0 p-0" >
+          <a href="/"><img id="logo-short" class='nav-link' src="{{ asset('images\Camp_Logo_Resized.png')}}"  alt="Camp Logo"></a>
+      </ul>
+    </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+              <a class="nav-link" href="#">Rates</a>
+          </li>
+          <hr class="light mobile">
+          <li class="nav-item">
+              <a class="nav-link" href="/staff">Staff</a>
+          </li>
+          <hr class="light mobile">
+          <li class="nav-item">
+              <a class="nav-link" href="/about">About</a>
+          </li>
+          <hr class="light mobile">
+      </ul>
+    </div>
+  </div>
+</nav> --}}
+
+
+
+
+
+
+
+{{--
+      <ul class="nav nav-pills py-3 justify-content-center">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Parents</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Registration Forms</a>
+            <a class="dropdown-item" href="#">Directions</a>
+            <a class="dropdown-item" href="#">PBC Statement of Faith</a>
+            <a class="dropdown-item" href="/about">About PBC</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/contact">Contact Us</a>
+            <a class="dropdown-item" href="#">Separated link</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Campers</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Registration Forms</a>
+              <a class="dropdown-item" href="#">Directions</a>
+              <a class="dropdown-item" href="#">PBC Statement of Faith</a>
+              <a class="dropdown-item" href="/about">About PBC</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/contact">Contact Us</a>
+              <a class="dropdown-item" href="#">Separated link</a>
+            </div>
+          </li>
+
+          <li id='logo' class="nav-item" class="navbar-inner">
+            <img class='nav-link' src="{{ asset('images\Camp Logo.png')}}" class="iconos" alt="Camp Logo">
+          </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="/customers">Customers</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+    --}}
