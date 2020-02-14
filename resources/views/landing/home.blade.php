@@ -95,7 +95,7 @@
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43.jpg')}}"  alt="Sr High">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43-resized.jpg')}}"  alt="Sr High">
 
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
@@ -114,7 +114,7 @@
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 1</h1>
           <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43.jpg')}}"  alt="PRE-TEEN 1">
+              <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRE-TEEN 1">
 
             <div class="card-body">
                 <div class="d-flex justify-content-between align-items-center">
