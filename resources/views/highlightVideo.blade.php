@@ -28,7 +28,7 @@
               </div>
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">JR HIGH 1 - 2019</label>
-                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\JR. HIGH 1 FINAL FILM 2.mp4')}}" frameborder="0" allowfullscreen controls></video>
+                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\JR. HIGH 1 FINAL FILM 2_x265.mp4')}}" frameborder="0" allowfullscreen controls></video>
 
               </div>
               <div class="col-md-4 pb-video">
@@ -42,8 +42,8 @@
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">PRETEEN 1 - 2019</label>
                   <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\Preteen 1 Final Video.mp4')}}" frameborder="0" allowfullscreen controls></video>
-
               </div>
+
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">PRETEEN 2 - 2019</label>
                   <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\Preteen 2 Youtube Copy.mp4')}}" frameborder="0" allowfullscreen controls></video>
@@ -51,9 +51,8 @@
               </div>
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">PRIMARY - 2019</label>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/YVHITK6TCjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe class="pb-video-frame" width="560" height="315" src="https://www.youtube.com/embed/YVHITK6TCjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     {{-- <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\PRIMARY Video.mp4')}}" frameborder="0" allowfullscreen controls></video> --}}
-
               </div>
 
           </div>
