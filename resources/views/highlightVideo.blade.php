@@ -51,7 +51,8 @@
               </div>
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">PRIMARY - 2019</label>
-                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\PRIMARY Video.mp4')}}" frameborder="0" allowfullscreen controls></video>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/YVHITK6TCjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    {{-- <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\PRIMARY Video.mp4')}}" frameborder="0" allowfullscreen controls></video> --}}
 
               </div>
 
