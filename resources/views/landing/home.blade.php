@@ -7,7 +7,7 @@
 
 <div class="landing-video embed-responsive embed-responsive-16by9">
     <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-        <source src="{{ asset('video\Camp2020landing_x265.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
+        <source src="{{ asset('video\Camp2020landing_mpeg4.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
       </video>
   </div>
 
