@@ -16,7 +16,17 @@
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
             <div class="card mb-4 shadow-sm">
-            <a class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail" alt="Sr High" href="https://www.youtube.com/watch?v=Gc8JvIbyULY" ></a>
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43-resized.jpg')}}"  alt="Sr High">
+
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-center">
+
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center">
+                    <a href="https://www.youtube.com/watch?v=Gc8JvIbyULY" ><button type="button" class="btn btn-primary btn-lg">SR High 2019</button></a>
+
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -25,6 +35,17 @@
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 1</h1>
           <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRE-TEEN 1">
+
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                <p class="card-text">July 12 - 17</p>
+                <p>Grades 4, 5, 6</p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                <a href="/register" class="stretched-link">Registration</a>
+                <p>$315</p>
+                </div>
+          </div>
         </div>
     </div>
 
@@ -103,57 +124,6 @@
 
 
 
-
-    {{-- <h1 class="font-weight-light text-center  mt-4 mb-0">Highlight Videos</h1>
-
-    <hr class="mt-2 mb-5">
-
-    <h2>Clicking on the thumbnails will take you to our YouTube channel</h2>
-
-
-
-    <div class="container-fluid pb-video-container">
-      <div class="col-md-10 offset-md-1">
-
-          <div class="row pb-row">
-              <div class="col-md-4">
-                <label class="form-control label-warning text-center">SR HIGH - 2019</label>
-                <a href="https://www.youtube.com/watch?v=Gc8JvIbyULY" ><button type="button" class="btn btn-primary btn-lg">SR High 2019</button></a>
-
-
-              </div>
-              <div class="col-md-4 pb-video">
-                <label class="form-control label-warning text-center">JR HIGH 1 - 2019</label>
-                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\JR. HIGH 1 FINAL FILM 2_x265.mp4')}}" frameborder="0" allowfullscreen controls></video>
-
-              </div>
-              <div class="col-md-4 pb-video">
-                <label class="form-control label-warning text-center">JR HIGH 2 - 2019</label>
-                  <video class="pb-video-frame " width="100%" height="230" src="{{asset('video\Jr. High 2 FInal Film.mp4')}}" frameborder="0" allowfullscreen controls></video>
-
-              </div>
-
-          </div>
-          <div class="row pb-row">
-              <div class="col-md-4 pb-video">
-                <label class="form-control label-warning text-center">PRETEEN 1 - 2019</label>
-                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\Preteen 1 Final Video.mp4')}}" frameborder="0" allowfullscreen controls></video>
-              </div>
-
-              <div class="col-md-4 pb-video">
-                <label class="form-control label-warning text-center">PRETEEN 2 - 2019</label>
-                  <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\Preteen 2 Youtube Copy.mp4')}}" frameborder="0" allowfullscreen controls></video>
-
-              </div>
-              <div class="col-md-4 pb-video">
-                <label class="form-control label-warning text-center">PRIMARY - 2019</label>
-                    <iframe class="pb-video-frame" width="560" height="315" src="https://www.youtube.com/embed/YVHITK6TCjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-              </div>
-
-          </div>
-      </div>
-  </div> --}}
 
 
 
