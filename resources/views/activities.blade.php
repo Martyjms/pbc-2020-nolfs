@@ -103,7 +103,7 @@
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">And Much, Much More</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.jpg')}}"  alt="Sr High games">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\beach-day.jpeg')}}"  alt="Sr High games">
             </div>
         </div>
 
