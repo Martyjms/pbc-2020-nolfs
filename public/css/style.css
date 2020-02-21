@@ -474,6 +474,13 @@ div.js-tilt {
         transition: all 0.2s;
       }
 
+
+      /*STAFF*/
+
+      .due-dates {
+          text-decoration: underline;
+      }
+
       /* Hover Effects on Card */
 
       @media (min-width: 992px) {

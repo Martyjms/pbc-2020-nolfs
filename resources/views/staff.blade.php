@@ -12,7 +12,7 @@
         <br>
 
           <p class="lead">Working at Pleasantview Bible Camp is an amazing way to spend your summer! If you are interested in working at camp, please click on the links below to download the staff application forms. If you have not filled out the FBC volunteer application, you will also need to complete that along with any attached reference forms.</p>
-          <p>Staff application forms due April 1</p>
+          <p class="due-dates">Staff application forms due April 1</p>
         </div>
       </div>
 
@@ -47,7 +47,7 @@
                 <p class="lead">The LIT program runs during the Preteen 1 and Junior High 1 weeks of camp (July 12-17, July 19-24), after which you will serve at camp for at least one of the following three weeks. The program will not only challenge you in your personal relationship with Christ, but will also equip you to become an effective camp staff member so that you can impact the lives of others!</p>
                 <p class="lead">The cost of the program is $310, which is due upon acceptance of your application. This fee covers everything including accommodations, food, and study materials. Please note that space is limited, so please apply soon!</p>
                 <p class="lead">Please click on the links below to download the lit application forms. If you have not filled out the FBC volunteer application, you will also need to complete that along with the attached reference forms​.</p>
-                <p>LIT application forms due April 1</p>
+                <p class="due-dates">LIT application forms due April 1</p>
                 </div>
             </div>
 

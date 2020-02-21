@@ -13,21 +13,12 @@
 
 
 
-
-
-
-
-
-
-    <hr />
-
-
     <h1 class="font-weight-light text-center  mt-4 mb-0">Camp Memories</h1>
 
     <hr class="mt-2 mb-5">
 
     <div class="container justify-content-center">
-    <h2>Select an image to enter slideshow mode</h2>
+    <h2 class="text-center">Select an image to enter slideshow mode</h2>
 
     <div class="row">
 
@@ -65,87 +56,6 @@
 
     </div>
 
-
-
-
-
-
-
-
-
-{{-- <!-- Page Content -->
-<div class="container">
-
-    <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Camp Memories</h1>
-
-    <hr class="mt-2 mb-5">
-
-    <div class="row text-center text-lg-left">
-
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="{{asset('Photos2019\IMG_1717.jpg')}}" class="d-block mb-4 h-100" data-toggle="lightbox" data-gallery="camp-memories">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1717.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="{{asset('Photos2019\IMG_1717.jpg')}}" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1717.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="{{asset('Photos2019\IMG_1717.jpg')}}" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1717.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="{{asset('Photos2019\IMG_1763.jpg')}}" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1763.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1717.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-6">
-        <a href="#" class="d-block mb-4 h-100">
-              <img class="img-fluid img-thumbnail" src="{{asset('Photos2019\IMG_1741.jpg')}}" alt="">
-            </a>
-      </div>
-    </div>
-
-  </div> --}}
-  <!-- /.container -->
 
 
 @endsection

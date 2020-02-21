@@ -11,8 +11,7 @@
         <hr>
         <br>
         <div class="col-12">
-          <p class="lead">You'll never run out of fun and exciting things to do at Pleasantview!</p>
-          <hr class="light">
+          <h2 class="text-center">You'll never run out of fun and exciting things to do at Pleasantview!</p>
 
         </div>
       </div>
