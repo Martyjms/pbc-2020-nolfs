@@ -477,7 +477,7 @@ div.js-tilt {
 
       /*STAFF*/
 
-      .due-dates {
+      .due-dates p {
           text-decoration: underline;
           text-decoration-color: #ea9270;
       }
