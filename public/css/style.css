@@ -479,6 +479,7 @@ div.js-tilt {
 
       .due-dates {
           text-decoration: underline;
+          text-decoration-color: #ea9270;
       }
 
       /* Hover Effects on Card */
