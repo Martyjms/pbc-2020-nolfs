@@ -6,16 +6,109 @@
 
 
 
+<section class="camps container">
+
+    <div class="d-flex flex-row flex-wrap justify-content-center">
+
+
+
+
+        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
+            <div class="card mb-4 shadow-sm">
+            <a class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail" alt="Sr High" href="https://www.youtube.com/watch?v=Gc8JvIbyULY" ></a>
+            </div>
+        </div>
+
+
+        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">PRE-TEEN 1</h1>
+          <div class="card mb-4 shadow-sm">
+              <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRE-TEEN 1">
+        </div>
+    </div>
+
+        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">JR HIGH 1</h1>
+          <div class="card mb-4 shadow-sm">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\jr high 1.jpg')}}"  alt="Fun in the sand">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                <p class="card-text">July 19 - 24</p>
+                <p>Grades 7, 8, 9</p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                <a href="/register" class="stretched-link">Registration</a>
+                <p>$315</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">PRE-TEEN 2</h1>
+          <div class="card mb-4 shadow-sm">
+              <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen-43.jpg')}}" alt="Fun in the sand">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                <p class="card-text">July 26 - 31</p>
+                <p>Grades 4, 5, 6</p>
+            </div>
+            <div class="d-flex justify-content-between align-items-center">
+            <a href="/register" class="stretched-link">Registration</a>
+            <p>$315</p>
+
+            </div>
+          </div>
+        </div>
+    </div>
+
+        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">Primary</h1>
+            <div class="card mb-4 shadow-sm">
+              <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}" alt="Fun in the sand">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                <p class="card-text">August 3 - 7</p>
+                <p>Grades 2, 3, 4</p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                <a href="/register" class="stretched-link">Registration</a>
+                <p>$290</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <h1 class="display-4 mx-auto text-center">Junior High 2</h1>
+            <div class="card mb-4 shadow-sm">
+            <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\IMG_7712-43.jpg')}}"  alt="Fun in the sand">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                <p class="card-text">August 9 - 14</p>
+                <p>Grades 7, 8, 9</p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                <a href="/register" class="stretched-link">Registration</a>
+                <p>$315</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 
 
 
 
 
 
-
-    <h1 class="font-weight-light text-center  mt-4 mb-0">Highlight Videos</h1>
+    {{-- <h1 class="font-weight-light text-center  mt-4 mb-0">Highlight Videos</h1>
 
     <hr class="mt-2 mb-5">
+
+    <h2>Clicking on the thumbnails will take you to our YouTube channel</h2>
 
 
 
@@ -55,12 +148,12 @@
               <div class="col-md-4 pb-video">
                 <label class="form-control label-warning text-center">PRIMARY - 2019</label>
                     <iframe class="pb-video-frame" width="560" height="315" src="https://www.youtube.com/embed/YVHITK6TCjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    {{-- <video class="pb-video-frame" width="100%" height="230" src="{{asset('video\PRIMARY Video.mp4')}}" frameborder="0" allowfullscreen controls></video> --}}
+
               </div>
 
           </div>
       </div>
-  </div>
+  </div> --}}
 
 
 
