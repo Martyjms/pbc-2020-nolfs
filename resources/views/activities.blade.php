@@ -7,17 +7,15 @@
     <div class="row welcome text-center">
       <div class="col-12">
           <br>
-        <h1 class="display-4">Activities</h1>
+        <h2 class="display-4">You'll never run out of fun and exciting things to do at Pleasantview!</h2>
         <hr>
-        <br>
-        <div class="col-12">
-          <h2 class="text-center">You'll never run out of fun and exciting things to do at Pleasantview!</p>
+
 
         </div>
       </div>
     </div>
   </div>
-  <hr />
+
 
   <section class=" camps container">
 

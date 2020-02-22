@@ -16,6 +16,7 @@
           <div class="col-12">
             <p class="lead">To lead people into a growing relationship with Jesus Christ.</p>
           </div>
+          <br>
 
           <h1 class="display-4">Our Core Values</h1>
         <hr>
@@ -25,6 +26,7 @@
           <p class="lead">We value Christian community.</p>
           <p class="lead">We value the community at large.</p>
         </div>
+        <br>
 
         <h1 class="display-4">About</h1>
         <hr>
