@@ -10,8 +10,11 @@
         <img class="img-fluid" src="{{asset('Photos2019\pool.jpg')}}" alt="pool fence" />
           <br>
         <br>
-          <h1 class="display-4">Our Mission</h1>
-          <hr>
+        <div>
+            <h1 class="display-4">Our Mission</h1>
+            <hr>
+        </div>
+
           <br>
           <div class="col-12">
             <p class="lead">To lead people into a growing relationship with Jesus Christ.</p>
