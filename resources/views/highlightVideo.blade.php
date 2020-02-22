@@ -7,7 +7,7 @@
 
 
 <section class="camps container">
-    <h3 class="display-4 text-center">Clicking on the thumbnails will direct you to our YouTube channel</h3>
+    <h4 class="display-4 text-center">Clicking on the thumbnails will direct you to our YouTube channel</h4>
     <hr>
 
     <div class="d-flex flex-row flex-wrap justify-content-center">

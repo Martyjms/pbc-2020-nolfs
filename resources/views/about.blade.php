@@ -10,7 +10,7 @@
         <img class="img-fluid" src="{{asset('Photos2019\pool.jpg')}}" alt="pool fence" />
           <br>
         <br>
-        <div>
+        <div class="container-fluid">
             <h1 class="display-4">Our Mission</h1>
             <hr>
         </div>
