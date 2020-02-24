@@ -215,7 +215,7 @@
         <h1 class="display-4">Did you know?</h1>
         <hr>
         <div class="col-12">
-        <p class="lead">Pleasantview Bible Camp is an extention of First Baptist Church in Lloydminster, Alberta.
+        <p class="lead">Pleasantview Bible Camp is an extension of First Baptist Church in Lloydminster, Alberta.
         <br>
         <br>
         <a href="http://www.fbclloyd.ca" ><button type="button" class="btn btn-primary btn-lg">FBC Lloyd Website</button></a>

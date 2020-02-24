@@ -15,7 +15,7 @@
         <h2 class="display-4 mx-auto text-center">Directions</h2>
         <div class="list-group mx-auto ml-n4 col-lg-6 p-5">
         <p class="lead">Pleasantview Bible Camp is located 20 km north of Lloydminster on the northeast side of Sandy Beach lake.</p>
-        <p class="lead">After turning off Highway 17 take your immediate left and continue for approximately 500m and you will see the enterance to the camp on your right.</p>
+        <p class="lead">After turning off Highway 17 take your immediate left and continue for approximately 500m and you will see the entrance to the camp on your right.</p>
         </div>
         <br>
 

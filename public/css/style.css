@@ -42,6 +42,13 @@
         text-decoration: underline;
     }
 
+    /*STAFF*/
+
+    #due-dates p {
+        text-decoration: underline !important;
+        text-decoration-color: #ea9270 !important;
+    }
+
 
 
     /* LANDING VIDEO */
@@ -475,12 +482,7 @@ div.js-tilt {
       }
 
 
-      /*STAFF*/
 
-      .due-dates p {
-          text-decoration: underline !important;
-          text-decoration-color: #ea9270 !important;
-      }
 
       /* Hover Effects on Card */
 

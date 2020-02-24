@@ -34,7 +34,7 @@
   <div class="row padding ">
         <div class="list-group ml-n4 col-lg-6 p-5">
             <p class="lead">Julie Moser is an Australian who has lived in Canada since 2004. She has been involved in Youth Ministry for the past 30 years as a youth minister in Australia and Canada. For the past six years she worked as the Youth and Children’s Missioner in the Diocese of Qu’Appelle until November 2019.</p>
-            <p class="lead">She is passionate about teaching God’s word and disciping young people in the faith. She is the author of several youth ministry resources including Studies 2 Go and More Studies 2 Go. She is married Ken who is the Professor of Youth Minister at Briercrest College, SK.</p>
+            <p class="lead">She is passionate about teaching God’s word and discipling young people in the faith. She is the author of several youth ministry resources including Studies 2 Go and More Studies 2 Go. She is married to Ken who is the Professor of Youth Ministry at Briercrest College, SK.</p>
         </div>
         <div class="col-lg-6 p-5 ">
                 <img src="{{asset('Photos2019\JulieMoser.jpg')}}" class="img-fluid" alt="">
@@ -77,7 +77,7 @@
                 <img src="{{asset('Photos2019\2020Primary.jpg')}}" class="img-fluid" alt="">
         </div>
     <div class="list-group ml-n4 col-lg-6 p-5">
-        <p class="lead">Curtis and Bonnie have been touring all across Canada for over 15 years, sharing their music with many people. Throughout that time they have made many new additions to their band. They are now the proud parents of seven: Heidi, Meka, Alonzo, Peter, Sunny, Amy and Davidson.</p>
+        <p class="lead">Curtis and Bonnie have been touring all across Canada for over 15 years, sharing their music with many people. Throughout that time they have made many new additions to their band. They are now the proud parents of eight: Heidi, Meka, Alonzo, Peter, Isaac, Sunny, Amy and Davidson.</p>
         <p class="lead">As a family, they constantly tour all over the country with the goal of sharing the amazing love that they have found in Jesus Christ through their music and their stories. They have come out to Pleasantview several times before and we are so excited to have them back again this year! Please visit <a href="http://www.singingwithgrace.com/">www.singingwithgrace.com</a> to find out more about them or to check out some of their recorded music.</p>
 
     </div>
