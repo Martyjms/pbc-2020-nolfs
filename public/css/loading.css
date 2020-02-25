@@ -15,7 +15,7 @@
 } */
 
 .loader img {
-    margin-left: 25rem;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,3 +58,8 @@
 }
 
 
+@media (max-width: 576px) {
+    .loader {
+        min-height: 40vh;
+    }
+}
