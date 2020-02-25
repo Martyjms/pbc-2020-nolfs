@@ -13,6 +13,13 @@ function init() {
 
 init();
 
+function fade() {
+    setTimeout(() => {
+
+    })
+}
+
+
 
 setTimeout(function(){
     document.getElementById("video_background").play();
