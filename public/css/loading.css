@@ -24,9 +24,11 @@
 
 /* LOADER 3 */
  .loader {
+
+
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: top;
 }
 
 .loader > span {
@@ -59,7 +61,7 @@
 
 
 @media (max-width: 576px) {
-    .loader {
-        min-height: 40vh;
+    .loader img{
+        max-height: 50vh;
     }
 }

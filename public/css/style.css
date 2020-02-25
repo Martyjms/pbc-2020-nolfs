@@ -517,7 +517,9 @@ div.js-tilt {
 
      @media (min-width: 992px) {
     .navbar-expand-lg .navbar-toggler {
-
+    }
+    .navbar-brand img {
+        max-width: 40vw;
     }
 }
 
@@ -557,6 +559,7 @@ div.js-tilt {
             font-size: 2.5em;
             padding: 1.2rem;
           }
+
     }
 
     @media (max-width: 576px) {
