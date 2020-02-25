@@ -5,16 +5,34 @@
 @section('content')
 
 
+<div class="loader">
+
+
+
+      <section class="my-5">
+        <div class="container">
+          <div class="row">
+            <div class="mx-auto">
+                <img class="logo mx-auto" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+                <p class="display-4">STAND FIRM IN THE FAITH</p>
+                <p class="text-right"> 1 Corinthians 16 : 13-14</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+</div>
+
+
+
+
+
 <div class="landing-video embed-responsive embed-responsive-16by9">
-    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <video id="video_background" playsinline="playsinline"  muted="muted" preload="true" loop="loop">
         <source src="{{ asset('video\Camp2020landing_x264_001.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
       </video>
   </div>
-
-
-
-
-
 
 
   <section class="my-5">
@@ -58,21 +76,7 @@
 
 
 
-  {{-- || Welcome Section || --}}
-{{--
-  <div class="container-fluid padding">
-    <div class="row welcome text-center">
-      <div class="col-12">
-        <h1 class="display-4">PBC 2020 | Stand Firm</h1>
-        <hr>
-        <div class="col-12">
-          <p class="lead">Each year we have a new camp theme that aims to challange the campers to live Christ centered lives.  This years theme is taken from 1 Corinthians 16: 13-14:</p>
-          <h2 class="display-4">Be on your guard; stand firm in the faith; be courageous; be strong. Do everything in love.</h2>
-          <p class="lead"></p>
-        </div>
-      </div>
-    </div>
-  </div> --}}
+
 
 
 

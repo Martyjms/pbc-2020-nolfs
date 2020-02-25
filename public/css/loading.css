@@ -1,0 +1,30 @@
+.main {
+    text-align:center;
+    width: 90%;
+    opacity: 0;
+
+
+}
+
+.loader {
+    position: fixed;
+    z-index: 100;
+    min-height: 100vh;
+    min-width: 200vh;
+    background-color: #fff;
+
+}
+
+.loader img {
+    margin-left: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fade {
+
+}
+
+

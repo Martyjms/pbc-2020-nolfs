@@ -5,10 +5,13 @@
 @section('content')
 
 
-
+<br>
 <section class="camps container">
-    <h4 class="display-4 text-center">Clicking on the thumbnails will direct you to our YouTube channel</h4>
+    <br>
+    <h4 class="display-4 text-center">Clicking on each thumbnail will direct you to our YouTube channel</h4>
+    <br>
     <hr>
+    <br>
 
     <div class="d-flex flex-row flex-wrap justify-content-center">
 
@@ -19,7 +22,7 @@
             <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
             <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43-resized.jpg')}}"  alt="Sr High">
-                <div class="card-body">
+                <div class="card-body p-0">
                     <div class="d-flex justify-content-between align-items-center">
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
@@ -34,8 +37,7 @@
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 1</h1>
           <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRE-TEEN 1">
-
-            <div class="card-body">
+            <div class="card-body p-0">
                 <div class="d-flex justify-content-between align-items-center">
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
@@ -49,7 +51,7 @@
             <h1 class="display-4 mx-auto text-center">JR HIGH 1</h1>
           <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\jr high 1.jpg')}}"  alt="Fun in the sand">
-            <div class="card-body">
+            <div class="card-body p-0">
                 <div class="d-flex justify-content-between align-items-center">
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
@@ -63,7 +65,7 @@
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 2</h1>
           <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen-43.jpg')}}" alt="Fun in the sand">
-            <div class="card-body">
+            <div class="card-body p-0">
                 <div class="d-flex justify-content-between align-items-center">
             </div>
             <div class="d-flex justify-content-between align-items-center">
@@ -77,7 +79,7 @@
             <h1 class="display-4 mx-auto text-center">Primary</h1>
             <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}" alt="Fun in the sand">
-            <div class="card-body">
+            <div class="card-body p-0">
                 <div class="d-flex justify-content-between align-items-center">
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
@@ -88,22 +90,21 @@
     </div>
 
     <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">Junior High 2</h1>
+            <h1 class="display-4 mx-auto text-center">JUNIOR HIGH 2</h1>
             <div class="card mb-4 shadow-sm">
             <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\IMG_7712-43.jpg')}}"  alt="Fun in the sand">
-            <div class="card-body">
+            <div class="card-body p-0">
                 <div class="d-flex justify-content-between align-items-center">
-                <p class="card-text">August 9 - 14</p>
-                <p>Grades 7, 8, 9</p>
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
-                <a href="/register" class="stretched-link">Registration</a>
-                <p>$315</p>
+                    <a href="https://www.youtube.com/watch?v=N5b8pJ9fAUo" class="stretched-link"></a>
+
                 </div>
             </div>
         </div>
     </div>
 </div>
+<br>
 </section>
 
 
