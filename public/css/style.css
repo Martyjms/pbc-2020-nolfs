@@ -512,15 +512,17 @@ div.js-tilt {
             max-height: 13vh;
         }
 
+        .navbar-brand img {
+            max-width: 40vw;
+        }
+
      }
 
 
      @media (min-width: 992px) {
     .navbar-expand-lg .navbar-toggler {
     }
-    .navbar-brand img {
-        max-width: 40vw;
-    }
+
 }
 
      /* @media (max-width: 992px) {
