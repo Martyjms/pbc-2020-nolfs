@@ -503,7 +503,7 @@ div.js-tilt {
      /* | Media Queries | */
      @media (max-width: 1400px){
         .navbar-brand img {
-            max-height:12vh;
+            max-height:12vh !important;
         }
         .display-4 {
             font-size: 2rem;
@@ -522,9 +522,9 @@ div.js-tilt {
     }
 
      @media (max-width: 1130px) {
-        .navbar-brand img {
-            max-height: 8vh !important;
-        }
+        /* .navbar-brand img {
+            max-height: 15vh !important;
+        } */
         .d-inline img {
             max-height: 90px;
         }
@@ -603,10 +603,14 @@ div.js-tilt {
     @media (min-width: 576px)
     {
         .navbar-brand img {
-            max-height: 5vh !important;
+            min-height: 8vh !important;
         }
 
-    @media (max-width: 576px) {}
+    @media (max-width: 576px) {
+
+        .navbar-brand img {
+            min-height: 8vh !important;
+        }
 
 
         .carousel-caption {
