@@ -540,7 +540,7 @@ div.js-tilt {
          }
 
          .navbar-collapse {
-             background-color: rgba(255, 255, 255, 0.5);
+             background-color: rgba(255, 255, 255, 0.7);
          }
      }
 
@@ -603,7 +603,7 @@ div.js-tilt {
     @media (min-width: 576px)
     {
         .navbar-brand img {
-            max-height: 3vh !important;
+            max-height: 5vh !important;
         }
 
     @media (max-width: 576px) {}
