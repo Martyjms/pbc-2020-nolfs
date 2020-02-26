@@ -16,6 +16,7 @@
                 <p class="display-4">STAND FIRM IN THE FAITH</p>
                 <p class="text-right"> 1 Corinthians 16 : 13-14</p>
                 <!-- Loader 3 -->
+                <br>
                 <div class="loader">
                 <span></span>
                 <span></span>
@@ -52,16 +53,16 @@
 
 
 
-  <section class="my-5">
-    <div class="container">
-      <div class="row">
-        <div class="mx-auto">
-            <p class="display-4 text-center"><small><small>Pleasantview Bible Camp offers summer camps for kids in grades 2-12.  Explore below for more information.</small></small></p>
+
+    <div class="container-fluid">
+
+        <div>
+            <p id="small" class="display-4">Pleasantview Bible Camp offers summer camps for kids in grades 2-12.  Explore below for more information.</p>
             <br>
         </div>
-      </div>
+
     </div>
-  </section>
+
 
 
 
