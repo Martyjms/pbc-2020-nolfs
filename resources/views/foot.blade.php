@@ -1,6 +1,6 @@
 
 
-<footer class="main">
+<footer id="pre-load">
   <div class="container-fluid padding">
     <div class="row text-center">
       <div class="col-md-3">

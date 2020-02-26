@@ -24,3 +24,10 @@ function fade() {
 setTimeout(function(){
     document.getElementById("video_background").play();
 }, 5000);
+
+$(document).ready(function () {
+    // Hide the div
+    $("#pre-load").hide();
+    // Show the div after 5s
+    $("#pre-load").delay(5000).fadeIn(100);
+});
