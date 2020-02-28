@@ -53,10 +53,17 @@
 
     /* LANDING VIDEO */
 
-    .landing-video {
+    /* .landing-video {
 
+        overflow: hidden;
+        display:block;
+        height: 90vh;
 
     }
+
+    #video_background{
+        margin-bottom: -2520px;
+    } */
 
     /* Scroll-to-Top */
 
@@ -497,7 +504,14 @@ div.js-tilt {
         }
       } */
 
-
+      @media (min-width: 1401px){
+          #small{
+            font-size: 2rem;
+            padding-left: 200px;
+            padding-right: 200px;
+            text-align: center;
+          }
+      }
 
 
      /* | Media Queries | */

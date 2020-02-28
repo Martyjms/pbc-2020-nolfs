@@ -54,7 +54,7 @@
 
 
 
-    <div class="container-fluid">
+    <div class="container-fluid py-5">
 
         <div>
             <p id="small" class="display-4">Pleasantview Bible Camp offers summer camps for kids in grades 2-12.  Explore below for more information.</p>
@@ -173,7 +173,7 @@
     </div>
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">Primary</h1>
+            <h1 class="display-4 mx-auto text-center">PRIMARY</h1>
             <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}" alt="Fun in the sand">
             <div class="card-body">
@@ -190,7 +190,7 @@
     </div>
 
     <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">Junior High 2</h1>
+            <h1 class="display-4 mx-auto text-center">JUNIOR HIGH 2</h1>
             <div class="card mb-4 shadow-sm">
             <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\IMG_7712-43.jpg')}}"  alt="Fun in the sand">
             <div class="card-body">
@@ -217,7 +217,7 @@
 
 
 
-  <div class="container-fluid padding">
+  <div class="container-fluid padding py-5">
     <div class="row welcome text-center">
       <div class="col-12">
         <h1 class="display-4">Did you know?</h1>
