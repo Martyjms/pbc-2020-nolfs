@@ -3,9 +3,7 @@
 @section('content')
     {{-- ||  Two Column Section || --}}
 
-  <div class="container-fluid padding">
-    <div class="row welcome text-center">
-      <div class=" col-lg-6">
+
 
 
         <h2>COVID-19 UPDATE: May 4th 2020
@@ -37,5 +35,5 @@
 
 
 
-  <hr class="my-4">
+
 @endsection

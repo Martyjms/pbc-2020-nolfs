@@ -24,7 +24,7 @@
       <div class="container">
         <div class="row">
           <div class="mx-auto">
-              <img class="logo mx-auto" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+              <img class="logo" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
               <br>
               <p class="display-4">STAND FIRM IN THE FAITH</p>
               <p class="text-right"> 1 Corinthians 16 : 13-14</p>
