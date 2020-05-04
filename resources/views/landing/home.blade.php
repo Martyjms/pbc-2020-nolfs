@@ -21,13 +21,13 @@
   {{-- <div class="loader"> --}}
 
     <section class="my-5">
-        <img class="new-logo" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+
       <div class="container">
 
         <br>
         <div class="row">
           <div class="mx-auto">
-
+              <img class="align-middle" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
               <p class="display-4">STAND FIRM IN THE FAITH</p>
               <p class="text-right"> 1 Corinthians 16 : 13-14</p>
               <!-- Loader 3 -->
