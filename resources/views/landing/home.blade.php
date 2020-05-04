@@ -18,11 +18,12 @@
     </div>
   </section>
 
-  <div class="loader">
+  {{-- <div class="loader"> --}}
 
     <section class="my-5">
-      <div class="container">
         <img class="new-logo" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+      <div class="container">
+
         <br>
         <div class="row">
           <div class="mx-auto">
@@ -31,16 +32,16 @@
               <p class="text-right"> 1 Corinthians 16 : 13-14</p>
               <!-- Loader 3 -->
               <br>
-              <div class="loader">
+              {{-- <div class="loader">
               <span></span>
               <span></span>
               <span></span>
-              </div>
+              </div> --}}
           </div>
         </div>
       </div>
     </section>
-</div>
+{{-- </div> --}}
 
 
 {{-- <section class="main">
