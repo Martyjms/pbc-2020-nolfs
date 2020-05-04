@@ -36,11 +36,15 @@
 
     .covid {
         color: black !important;
-        text text-decoration-color: black;
+        text-decoration-color: black;
     }
 
     .cov {
         color: black !important;
+    }
+
+    .new-logo {
+        text-align: center;
     }
 
     /* Registration */
