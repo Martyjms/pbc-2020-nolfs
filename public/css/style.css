@@ -34,6 +34,9 @@
         text-decoration: underline;
     }
 
+    .covid {
+        color: black !important;
+    }
 
     /* Registration */
 

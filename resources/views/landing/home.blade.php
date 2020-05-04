@@ -11,8 +11,8 @@
     <div class="container">
       <div class="row">
         <div class="mx-auto">
-            <a href="/covid"><p class="display-5">PLEASANTVIEW BIBLE CAMP COVID-19 RESPONSE</p></a>
-            <small><p class="text-right">updated May 4th 2020</p></small>
+            <a href="/covid"><h1 class="covid">PLEASANTVIEW BIBLE CAMP COVID-19 RESPONSE</h1></a>
+            <small><p class="text-right covid">updated May 4th 2020</p></small>
         </div>
       </div>
     </div>

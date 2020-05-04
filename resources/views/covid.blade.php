@@ -35,20 +35,7 @@
 
         <br>
 
-      </div>
-      <div class="col-lg-6">
-      <img src="{{asset('images\kenton-3.jpg')}}" class="img-fluid" alt="">
-      </div>
-    </div>
-  </div>
 
-  <div class="row mx-auto ">
-  <div class="col-lg-6">
-    <img src="{{asset('images\kenton-2.jpg')}}" class="img-fluid" alt="">
-    </div>
-
-
-  </div>
 
   <hr class="my-4">
 @endsection
