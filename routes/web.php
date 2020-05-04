@@ -37,6 +37,7 @@ Route::view('highlightVideo', 'highlightVideo');
 Route::view('camps', 'camps');
 Route::view('activities', 'activities');
 Route::view('speakers', 'speakers');
+Route::view('covid', 'covid');
 
 
 

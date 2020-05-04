@@ -5,50 +5,52 @@
 @section('content')
 
 
-<div class="loader">
 
-      <section class="my-5">
-        <div class="container">
-          <div class="row">
-            <div class="mx-auto">
-                <img class="logo mx-auto" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
-                <br>
-                <p class="display-4">STAND FIRM IN THE FAITH</p>
-                <p class="text-right"> 1 Corinthians 16 : 13-14</p>
-                <!-- Loader 3 -->
-                <br>
-                <div class="loader">
-                <span></span>
-                <span></span>
-                <span></span>
-                </div>
-            </div>
-          </div>
-        </div>
-      </section>
-</div>
 
 <section class="my-5">
     <div class="container">
       <div class="row">
         <div class="mx-auto">
-            <p class="display-4">PLEASANTVIEW BIBLE CAMP COVID-19 RESPONSE</p>
+            <a href="/covid"><p class="display-5">PLEASANTVIEW BIBLE CAMP COVID-19 RESPONSE</p></a>
             <small><p class="text-right">updated May 4th 2020</p></small>
         </div>
       </div>
     </div>
   </section>
 
+  <div class="loader">
 
-<section class="main">
+    <section class="my-5">
+      <div class="container">
+        <div class="row">
+          <div class="mx-auto">
+              <img class="logo mx-auto" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+              <br>
+              <p class="display-4">STAND FIRM IN THE FAITH</p>
+              <p class="text-right"> 1 Corinthians 16 : 13-14</p>
+              <!-- Loader 3 -->
+              <br>
+              <div class="loader">
+              <span></span>
+              <span></span>
+              <span></span>
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
+
+
+{{-- <section class="main">
 <div class="landing-video embed-responsive embed-responsive-16by9">
     <video id="video_background" playsinline="playsinline"  muted="muted" preload="true" loop="loop">
         <source src="{{ asset('video\Camp2020landing_x264_001.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
       </video>
-  </div>
+  </div> --}}
 
 
-  <section class="my-5">
+  {{-- <section class="my-5">
     <div class="container">
       <div class="row">
         <div class="mx-auto">
@@ -57,7 +59,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> --}}
 
 
 
