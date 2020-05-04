@@ -7,7 +7,7 @@
 
 
         <h2 class="cov">COVID-19 UPDATE: May 4th 2020</h2>
-        <div class="container-fluid padding">
+        <div class="container padding">
         <p class ="lead cov">Hello Parents and Campers,</p>
         <p class="lead cov">
             It has been a very difficult few weeks here at Pleasantview, with many changes
