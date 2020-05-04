@@ -44,7 +44,7 @@
     }
 
     .new-logo {
-        text-align: center;
+        text-align: center !important;
     }
 
     /* Registration */

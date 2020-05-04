@@ -22,7 +22,7 @@
 
     <section class="my-5">
       <div class="container">
-        <img class=" new-logo" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
+        <img class="new-logo" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\PBC 2020 stand firm resized.jpg')}}"  alt="Sr High">
         <br>
         <div class="row">
           <div class="mx-auto">
