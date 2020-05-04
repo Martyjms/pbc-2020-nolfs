@@ -39,6 +39,10 @@
         text text-decoration-color: black;
     }
 
+    .cov {
+        color: black !important;
+    }
+
     /* Registration */
 
     .col-12 a {
