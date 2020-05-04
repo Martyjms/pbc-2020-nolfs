@@ -28,7 +28,16 @@
       </section>
 </div>
 
-
+<section class="my-5">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto">
+            <p class="display-4">PLEASANTVIEW BIBLE CAMP COVID-19 RESPONSE</p>
+            <small><p class="text-right">updated May 4th 2020</p></small>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
 <section class="main">
