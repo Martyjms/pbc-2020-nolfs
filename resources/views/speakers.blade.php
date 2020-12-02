@@ -7,14 +7,15 @@
     <div class="row welcome text-center">
       <div class="col-12">
 
-        <h1 class="display-4">2020 Camp Speakers</h1>
+        <h1 class="display-4">2021 Camp Speakers</h1>
         <hr>
+        <h1 class="text-center">Coming Soon!</h1>
         <br>
         </div>
       </div>
 
 
-    <div class="container-fluid padding">
+    {{-- <div class="container-fluid padding">
         <h1 class="text-center">Phil Cann - Sr. High</h1>
     <div class="row padding ">
         <div class="col-lg-6 p-5 ">
@@ -96,7 +97,7 @@
                 <img src="{{asset('Photos2019\adamDriscoll.jpg')}}" class="img-fluid" alt="">
         </div>
         </div>
-        </div>
+        </div> --}}
 
 
 </div>
