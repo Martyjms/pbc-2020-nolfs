@@ -17,7 +17,7 @@
 
         </div>
 
-        <div>
+        {{-- <div>
           <p class="lead">We are looking forward to another awesome year of camp and we would love for you to be a part of it!</p>
           <hr class="light">
         </div>
@@ -28,11 +28,11 @@
           </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 
   {{-- ||  Two Column Section || --}}
 
-  <div class="container-fluid padding">
+  {{-- <div class="container-fluid padding">
     <div class="row padding text-center">
       <div >
         <br>
@@ -100,5 +100,5 @@
     </div>
   </div>
 
-  <hr class="my-4">
+  <hr class="my-4"> --}}
 @endsection
