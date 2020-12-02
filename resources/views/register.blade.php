@@ -10,9 +10,14 @@
           <br>
           <br>
         <h1 class="display-4">Registration</h1>
-        <hr>
+        <hr class="container">
         <br>
         <div class="col-12">
+          <p class="lead">More info coming soon!</p>
+
+        </div>
+
+        <div>
           <p class="lead">We are looking forward to another awesome year of camp and we would love for you to be a part of it!</p>
           <hr class="light">
         </div>
