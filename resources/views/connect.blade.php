@@ -30,22 +30,22 @@
       <div class="col-xs-12 col-sm-6 col-md-4">
         <i class="fas fa-code"></i>
           <h3>Children's Ministry</h3>
-          <p>PBC 2020 | Stand Firm</p>
+          <p>PBC 2021 | Stand Firm</p>
       </div>
       <div class="col-xs-12 col-sm-6 col-md-4">
           <i class="fas fa-bold"></i>
             <h3>Youth Groups</h3>
-            <p>PBC 2020 | Stand Firm</p>
+            <p>PBC 2021 | Stand Firm</p>
         </div>
         <div class=" col-md-4">
             <i class="fas fa-paint-roller"></i>
               <h3>Young Adults</h3>
-              <p>PBC 2020 | Stand Firm</p>
+              <p>PBC 2021 | Stand Firm</p>
           </div>
           <div class=" col-md-4">
             <i class="fas fa-paint-roller"></i>
               <h3>Sunday Morning Services</h3>
-              <p>PBC 2020 | Stand Firm</p>
+              <p>PBC 2021 | Stand Firm</p>
           </div>
     </div>
     <hr class="my-4">
