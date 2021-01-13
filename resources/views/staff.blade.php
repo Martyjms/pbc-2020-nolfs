@@ -29,7 +29,8 @@
         <li class="list-group-item"><a href="{{asset('pdf\FBC MINISTRY APPLICATION FORM - ADULT 2020.pdf')}}" download>FBC Ministry Application Form - Adult 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\FBC MINISTRY APPLICATION FORM - YOUTH 2020.pdf')}}" download>FBC Ministry Application Form - Youth 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\Pleasantview Bible Camp Staff Covenant- 2021.pdf')}}" download>PBC Staff Covenant 2021</a></li>
-        <li class="list-group-item"><a href="{{asset('pdf\PBC REFERENCE FORM 2020.pdf')}}" download>PBC Reference Form 2021</a></li>
+        <li class="list-group-item"><a href="{{asset('pdf\FBC VOLUNTEER COVENANT 2020.pdf')}}" download>FBC Volunteer Covenant 2021</a></li>
+        <li class="list-group-item"><a href="{{asset('pdf\PBC REFERENCE FORM 2021.pdf')}}" download>PBC Reference Form 2021</a></li>
       </ul>
 
     </div>

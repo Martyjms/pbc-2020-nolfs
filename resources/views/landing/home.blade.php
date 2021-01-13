@@ -121,7 +121,7 @@
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>$320</p>
+                    {{-- <p>$320</p> --}}
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                 <a href="/register" class="stretched-link">Registration</a>
-                <p>$315</p>
+                {{-- <p>$315</p> --}}
                 </div>
           </div>
         </div>
@@ -157,7 +157,7 @@
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                 <a href="/register" class="stretched-link">Registration</a>
-                <p>$315</p>
+                {{-- <p>$315</p> --}}
                 </div>
             </div>
         </div>
@@ -174,7 +174,7 @@
             </div>
             <div class="d-flex justify-content-between align-items-center">
             <a href="/register" class="stretched-link">Registration</a>
-            <p>$315</p>
+            {{-- <p>$315</p> --}}
 
             </div>
           </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                 <a href="/register" class="stretched-link">Registration</a>
-                <p>$290</p>
+                {{-- <p>$290</p> --}}
                 </div>
             </div>
         </div>
@@ -209,7 +209,7 @@
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                 <a href="/register" class="stretched-link">Registration</a>
-                <p>$315</p>
+                {{-- <p>$315</p> --}}
                 </div>
             </div>
         </div>
