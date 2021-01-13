@@ -45,7 +45,7 @@
       </div>
       <div class="col-12">
         <hr class="light-100">
-        <h5>&copy;2019 pleasantviewcamp.org</h5>
+        <h5>&copy;2021 pleasantviewcamp.org</h5>
       </div>
   </div>
   </div>

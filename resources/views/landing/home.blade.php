@@ -4,30 +4,48 @@
 
 @section('content')
 
-<section class="my-5">
-<div class="w3-panel w3-border w3-round-large">
-    <p>Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.
-    <p>Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
-    <p>We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
-    <p>In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
-    <p>We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
-  </div>
-</section>
+<div class="container">
+    <div class="row welcome text-center">
+      <div class="col-12">
+
+        <h1 class="display-4">2021 Director's Message</h1>
+        <hr>
+        <br>
+
+          <p class="lead">Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.</p>
+          <p class="lead">Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
+          <p class="lead">We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
+          <p class="lead">In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
+          <p class="lead">We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
+
+        </div>
+      </div>
+
+      <div class="container-fluid padding">
+        <div class="row welcome text-center">
+
+          <div class="col-12">
+            <img class="img-fluid" src="{{asset('images\PBC 2020 stand firm resized.jpg')}}" alt="camp theme graphic" />
+          </div>
+        </div>
+      </div>
+
+
 
 {{--
-    <div class="container">
+
       <div class="row">
         <div class="mx-auto">
             <a href="/covid"><h1 class="covid">PLEASANTVIEW BIBLE CAMP 2021 UPDATE</h1></a>
             <small><p class="text-right covid">updated January 12 2021</p></small>
         </div>
-      </div>
+
     </div>
    --}}
 
   {{-- <div class="loader"> --}}
 
-    <section class="my-5">
+    {{-- <section class="my-5">
 
       <div class="container">
 
@@ -46,10 +64,10 @@
               <span></span>
               <span></span>
               </div> --}}
-          </div>
+          {{-- </div>
         </div>
       </div>
-    </section>
+    </section> --}} --}}
 {{-- </div> --}}
 
 
