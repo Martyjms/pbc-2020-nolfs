@@ -43,22 +43,23 @@
                 <div class="col-12">
                 <h1 class="display-4">LIT Program</h1>
                 <hr>
+                <br>
                 <h1>Who is LIT for?</h1>
                 <p class="lead">This program is for anyone who is ready to let God use them to do amazing things at Pleasantview this summer! We are looking for passionate people who care for kids, are team orientated, are willing to stay up late, get up early, and use their gifts to share the gospel. It is at camp that future LIT’s (that’s you!) will find community, grow in your faith, and develop new skills. If a summer filled with friendship, ministry, laughter, and growth in your relationship with God, sounds good… then this is the place for you!</p>
                 <div class="lead">Applicants must be at least 15 OR going into grade 10 in 2021.</div>
                 <br>
-                <h2>What is LIT all about?</h2>
+                <h1>What is LIT all about?</h1>
                 <div class="lead">This is a discipleship program that will challenge you and help you discover what it means to follow Jesus and how to use your giftings to serve others. You will grow and develop through Bible studies, team building, training sessions, service opportunities, and awesome community. LIT is about growing closer to the Lord, and learning how to share the gospel with others, while also getting to have fun and spending your summer making a difference.</div>
                 <div class="lead">After the two LIT weeks of training, you will have the opportunity to serve as a volunteer in one of several positions including junior cabin leading, work teams, kitchen help, or wrangling, during one of the remaining three week of camp. This will give you a chance to put everything you’ve learned into practice, and serve alongside a supportive team of camp staff.</div>
                 <br>
-                <h3>When does LIT run?</h3>
+                <h1>When does LIT run?</h1>
                 <div class="lead">If you would like to participate in this program, you must be willing to dedicate at least four weeks of your summer to camp. The four weeks will include June 28-July 2 (Staff Training), July 11-16 (LIT Week 1), July 18-23 (LIT Week 2), and at least one of the following three weeks: July 25-30, August 2-6, and/or August 8-13. The two LIT weeks are specifically dedicated to studying God’s Word and learning about Camp Ministry; your following week(s) will give you a chance to serve at camp and apply what you have learned.</div>
                 <br>
-                <h4>How much does LIT cost?</h4>
+                <h1>How much does LIT cost?</h1>
                 <div class="lead">The LIT Program costs a total of $310, which is due upon acceptance of your application. This covers everything including accommodations, food, and study materials for your LIT weeks.</div>
                 <br>
-                <h5>How do I join LIT?</h5>
-                <div class="lead">If you are interested in applying, pick up a copy of the application form at FBC or go to www.pleasantviewcamp.org and download the LIT application form along with the required reference forms. Remember, space in the program is limited, so complete your application and return it to us as soon as possible. Applications are due by May 3, 2021.</div>
+                <h1>How do I join LIT?</h1>
+                <div class="lead">If you are interested in applying, pick up a copy of the application form at FBC or click on the links below to download the required forms. Remember, space in the program is limited, so complete your application and return it to us as soon as possible. Applications are due by May 3, 2021.</div>
                 <br>
                 <div class="container">
                     <div class="row welcome text-center">
@@ -68,16 +69,8 @@
                    </div>
                     </div>
                     </div>
-
-
-
-                <p class="lead">The LIT program runs during the Preteen 1 and Junior High 1 weeks of camp (July 12-17, July 19-24), after which you will serve at camp for at least one of the following three weeks. The program will not only challenge you in your personal relationship with Christ, but will also equip you to become an effective camp staff member so that you can impact the lives of others!</p>
-                <p class="lead">The cost of the program is $310, which is due upon acceptance of your application. This fee covers everything including accommodations, food, and study materials. Please note that space is limited, so please apply soon!</p>
-                <p class="lead">This year's LIT leaders are Haylee Langille and Toryne O'Doherty.</p>
-                <p class="lead">Please click on the links below to download the lit application forms. If you have not filled out the FBC volunteer application, you will also need to complete that along with the attached reference forms​.</p>
-                {{-- <p id="due-dates">LIT application forms due April 1</p> --}}
-                </div>
-            </div>
+                    </div>
+                    </div>
 
             <div class="container-fluid padding">
                 <div class="row padding ">
