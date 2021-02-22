@@ -4,7 +4,7 @@
   <div class="container-fluid padding">
     <div class="row text-center">
       <div class="col-md-3">
-      <img  src="{{asset('images\PBC 2020 stand firm resized.jpg')}}" alt="Plesantview Bible Camp Logo">
+      <img  src="{{asset('images\PBC 2021 - Resized large.jpg')}}" alt="Plesantview Bible Camp Logo">
 
       </div>
 

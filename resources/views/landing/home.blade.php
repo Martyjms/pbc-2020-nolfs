@@ -25,7 +25,7 @@
         <div class="row welcome text-center">
 
           <div class="col-12">
-            <img class="img-fluid" src="{{asset('images\PBC 2020 stand firm resized.jpg')}}" alt="camp theme graphic" />
+            <img class="img-fluid" src="{{asset('images\PBC 2021 - Resized large.jpg')}}" alt="camp theme graphic" />
           </div>
         </div>
       </div>
