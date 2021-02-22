@@ -34,30 +34,7 @@
 
 
 
-{{--
-              <p class="display-4">STAND FIRM IN THE FAITH</p>
-              <p class="text-right"> 1 Corinthians 16 : 13-14</p> --}}
 
-
-
-{{-- <section class="main">
-<div class="landing-video embed-responsive embed-responsive-16by9">
-    <video id="video_background" playsinline="playsinline"  muted="muted" preload="true" loop="loop">
-        <source src="{{ asset('video\Camp2020landing_x264_001.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
-      </video>
-  </div> --}}
-
-
-  {{-- <section class="my-5">
-    <div class="container">
-      <div class="row">
-        <div class="mx-auto">
-            <p class="display-4">STAND FIRM IN THE FAITH</p>
-            <p class="text-right"> 1 Corinthians 16 : 13-14</p>
-        </div>
-      </div>
-    </div>
-  </section> --}}
 
 
 
@@ -79,14 +56,6 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
     <span class="screen-reader-text">Back to top</span>
   </a>
-
-
-
-
-
-
-
-
 
 
 
@@ -240,7 +209,7 @@
       </div>
     </div>
   </div>
-</section>
+
 
 
   @endsection
@@ -397,4 +366,27 @@
 
 
 
+{{--
+              <p class="display-4">STAND FIRM IN THE FAITH</p>
+              <p class="text-right"> 1 Corinthians 16 : 13-14</p> --}}
 
+
+
+{{-- <section class="main">
+<div class="landing-video embed-responsive embed-responsive-16by9">
+    <video id="video_background" playsinline="playsinline"  muted="muted" preload="true" loop="loop">
+        <source src="{{ asset('video\Camp2020landing_x264_001.mp4')}}" alt="Having Fun at Plesantview Bible Camp" type="video/mp4">
+      </video>
+  </div> --}}
+
+
+  {{-- <section class="my-5">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto">
+            <p class="display-4">STAND FIRM IN THE FAITH</p>
+            <p class="text-right"> 1 Corinthians 16 : 13-14</p>
+        </div>
+      </div>
+    </div>
+  </section> --}}
