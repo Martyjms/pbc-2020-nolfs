@@ -79,14 +79,14 @@
 
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
+            <h1 class="display-4 mx-auto text-center">PRIMARY</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43-resized.jpg')}}"  alt="Sr High">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}"  alt="PRIMARY">
 
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    {{-- <p class="card-text">July 5 - 11</p> --}}
-                    <p>Grades 10, 11, 12</p>
+                    <p class="card-text">July 4 - 9</p>
+                    <p>Grades 2, 3, 4</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
@@ -98,13 +98,13 @@
 
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">PRE-TEEN 1</h1>
+            <h1 class="display-4 mx-auto text-center">PRETEEN</h1>
             <div class="card mb-4 shadow-sm">
-                <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRE-TEEN 1">
+                <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRETEEN ">
 
                 <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center">
-                        {{-- <p class="card-text">July 12 - 17</p> --}}
+                        <p class="card-text">July 11 - 16</p>
                         <p>Grades 4, 5, 6</p>
                         </div>
                         <div class="d-flex justify-content-between align-items-center">
@@ -116,12 +116,12 @@
         </div>
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">JR HIGH 1</h1>
+            <h1 class="display-4 mx-auto text-center">JR HIGH</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\jr high 1.jpg')}}"  alt="Fun in the sand">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\jr high 1.jpg')}}"  alt="JR HIGH">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    {{-- <p class="card-text">July 19 - 24</p> --}}
+                    <p class="card-text">July 18 - 23</p>
                     <p>Grades 7, 8, 9</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
@@ -132,18 +132,18 @@
             </div>
         </div>
 
-        <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+        {{-- <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 2</h1>
             <div class="card mb-4 shadow-sm">
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen-43.jpg')}}" alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    {{-- <p class="card-text">July 26 - 31</p> --}}
+                    <p class="card-text">July 26 - 31</p>
                     <p>Grades 4, 5, 6</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    {{-- <p>$315</p> --}}
+                    <p>$315</p>
                     </div>
                 </div>
             </div>
@@ -155,12 +155,12 @@
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}" alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    {{-- <p class="card-text">August 3 - 7</p> --}}
+                    <p class="card-text">August 3 - 7</p>
                     <p>Grades 2, 3, 4</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    {{-- <p>$290</p> --}}
+                    <p>$290</p>
                     </div>
                 </div>
             </div>
@@ -172,16 +172,16 @@
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\IMG_7712-43.jpg')}}"  alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    {{-- <p class="card-text">August 9 - 14</p> --}}
+                    <p class="card-text">August 9 - 14</p>
                     <p>Grades 7, 8, 9</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    {{-- <p>$315</p> --}}
+                    <p>$315</p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 </div>
 </div>
 
