@@ -50,16 +50,16 @@
                 <br>
                 <h1>What is LIT all about?</h1>
                 <div class="lead">This is a discipleship program that will challenge you and help you discover what it means to follow Jesus and how to use your giftings to serve others. You will grow and develop through Bible studies, team building, training sessions, service opportunities, and awesome community. LIT is about growing closer to the Lord, and learning how to share the gospel with others, while also getting to have fun and spending your summer making a difference.</div>
-                <div class="lead">After the two LIT weeks of training, you will have the opportunity to serve as a volunteer in one of several positions including junior cabin leading, work teams, kitchen help, or wrangling, during one of the remaining three week of camp. This will give you a chance to put everything you’ve learned into practice, and serve alongside a supportive team of camp staff.</div>
+                <div class="lead">During the two LIT weeks of training, you will have the opportunity to serve in the different areas of camp.</div>
                 <br>
                 <h1>When does LIT run?</h1>
-                <div class="lead">If you would like to participate in this program, you must be willing to dedicate at least four weeks of your summer to camp. The four weeks will include June 28-July 2 (Staff Training), July 11-16 (LIT Week 1), July 18-23 (LIT Week 2), and at least one of the following three weeks: July 25-30, August 2-6, and/or August 8-13. The two LIT weeks are specifically dedicated to studying God’s Word and learning about Camp Ministry; your following week(s) will give you a chance to serve at camp and apply what you have learned.</div>
+                <div class="lead">If you would like to participate in this program, you must be willing to dedicate at least three weeks of your summer to camp. The three weeks will include June 27-30 (Staff Training), July 4-9 (LIT Week 1), July 11-16 (LIT Week 2), and an optional week of: July 18-23. The two LIT weeks are specifically dedicated to studying God’s Word and learning about Camp Ministry.</div>
                 <br>
                 <h1>How much does LIT cost?</h1>
                 <div class="lead">The LIT Program costs a total of $310, which is due upon acceptance of your application. This covers everything including accommodations, food, and study materials for your LIT weeks.</div>
                 <br>
                 <h1>How do I join LIT?</h1>
-                <div class="lead">If you are interested in applying, pick up a copy of the application form at FBC or click on the links below to download the required forms. Remember, space in the program is limited, so complete your application and return it to us as soon as possible. Applications are due by May 3, 2021.</div>
+                <div class="lead">If you are interested in applying, pick up a copy of the application form at FBC or go to www.pleasantviewcamp.org and download the LIT application form along with the required reference forms. Remember, space in the program is limited, so complete your application and return it to us as soon as possible. Applications are due by May 3, 2021.</div>
                 <br>
                 <div class="container">
                     <div class="row welcome text-center">
