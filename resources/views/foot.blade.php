@@ -13,7 +13,7 @@
         <div class="container-fluid padding">
             <h5>Contact</h5>
         <hr class="light">
-      <p>(306) 825 - 2461 (FBC Office)</p>
+      <p>(306) 825 - 2451 (FBC Office)</p>
       <p>(306) 825 - 3415 (Camp)</p>
       <p>info@pleasantviewcamp.org</p>
       <p>3915 47 Ave, Lloydminster SK<br>S9V 2C7</p>
