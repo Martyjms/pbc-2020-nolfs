@@ -3,7 +3,7 @@
 {{-- <div id="top-info"><strong>Registration begins January 21st 2020!</strong></div> --}}
 
 <nav class="navbar navbar-light navbar-expand-lg bg-light justify-content-lg-center justify-content-start sticky-top nav-scrolled">
-        <a class="navbar-brand  d-inline" href="/"><img img-fluid src="{{ asset('images\PBC LOGO.png')}}"  alt="Camp Logo"></a>
+        <a class="navbar-brand  d-inline" href="/"><img img-fluid src="{{ asset('images\Camp Logo.png')}}"  alt="Camp Logo"></a>
         <button class="navbar-toggler ml-1" type="button" data-toggle="collapse" data-target="#collapsingNavbar2">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -45,7 +45,7 @@
                     </div>
                 </li>
                 <li class="nav-item  my-auto">
-                        <a class="nav-link navbar-brand mx-0 d-none d-md-inline" href="/"><img img-fluid src="{{ asset('images\PBC LOGO.png')}}"  alt="Camp Logo"></a>
+                        <a class="nav-link navbar-brand mx-0 d-none d-md-inline" href="/"><img img-fluid src="{{ asset('images\Camp Logo.png')}}"  alt="Camp Logo"></a>
                     </li>
 
                 <li class="nav-item">
