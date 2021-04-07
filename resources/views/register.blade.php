@@ -5,17 +5,67 @@
 @section('content')
 <div class="container-fluid padding">
     <div class="row welcome text-center">
-      <div class="col-12">
+        <div class="col-12">
         <img class="img-fluid" src="{{asset('Photos2019\pool.jpg')}}" alt="pool fence" />
           <br>
           <br>
         <h1 class="display-4">Registration</h1>
         <hr class="container">
         <br>
-        <div class="col-12">
-          <p class="lead">More info coming soon!</p>
+            <div class="col-12">
+            <p class="lead">More info coming soon!</p>
 
+            </div>
         </div>
+    </div>
+
+    <div class="camps container">
+
+        <div class="d-flex flex-row flex-wrap justify-content-center">
+
+
+
+
+            <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+
+                <div class="card mb-4 shadow-sm">
+                  <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
+
+                    {{-- <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                        <p class="card-text">July 4 - 9</p>
+                        <p>Grades 2, 3, 4</p>
+                        </div>
+                        <div class="d-flex justify-content-between align-items-center">
+                        <a href="/register" class="stretched-link">Registration</a>
+                        </div>
+                    </div> --}}
+                </div>
+            </div>
+
+
+            <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+
+                <div class="card mb-4 shadow-sm">
+                    <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
+
+                    {{-- <div class="card-body">
+                            <div class="d-flex justify-content-between align-items-center">
+                            <p class="card-text">July 11 - 16</p>
+                            <p>Grades 4, 5, 6</p>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                            <a href="/register" class="stretched-link">Registration</a>
+                            </div>
+                    </div> --}}
+                </div>
+            </div>
+
+
+
+</div>
+
+        @endsection
 
         {{-- <div>
           <p class="lead">We are looking forward to another awesome year of camp and we would love for you to be a part of it!</p>
@@ -101,4 +151,4 @@
   </div>
 
   <hr class="my-4"> --}}
-@endsection
+
