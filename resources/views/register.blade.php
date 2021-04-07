@@ -13,7 +13,7 @@
         <hr class="container">
         <br>
             <div class="col-12">
-            <p class="lead">More info coming soon!</p>
+            {{-- <p class="lead">More info coming soon!</p> --}}
 
             </div>
         </div>
@@ -26,9 +26,9 @@
 
 
 
-            <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <div data-tilt data-tilt-scale="1.3" data-tilt-max="3" class="d-flex flex-column">
 
-                <div class="card mb-4 shadow-sm">
+                <div class="card mb-4 ">
                   <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
 
                     {{-- <div class="card-body">
@@ -44,9 +44,9 @@
             </div>
 
 
-            <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+            <div data-tilt data-tilt-scale="1.3" data-tilt-max="3" class="d-flex flex-column">
 
-                <div class="card mb-4 shadow-sm">
+                <div class="card mb-4 ">
                     <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
 
                     {{-- <div class="card-body">
