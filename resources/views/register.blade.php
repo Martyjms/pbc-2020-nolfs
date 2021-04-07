@@ -19,6 +19,8 @@
         </div>
     </div>
 
+{{-- Day Camps --}}
+
     <div class="camps container">
 
         <div class="d-flex flex-row flex-wrap justify-content-center">
@@ -26,14 +28,14 @@
 
 
 
-                <div data-tilt data-tilt-scale="1.3"  class="d-flex flex-column">
+                <div   class="d-flex flex-column">
                     <div class="card mb-4 ">
                         <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
                     </div>
                 </div>
 
 
-                <div data-tilt data-tilt-scale="1.3"  class="d-flex flex-column">
+                <div   class="d-flex flex-column">
 
                     <div class="card mb-4 ">
                         <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
