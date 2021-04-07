@@ -26,40 +26,23 @@
 
 
 
-            <div data-tilt data-tilt-scale="1.3" data-tilt-max="3" class="d-flex flex-column">
-
-                <div class="card mb-4 ">
-                  <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
-
-                    {{-- <div class="card-body">
-                        <div class="d-flex justify-content-between align-items-center">
-                        <p class="card-text">July 4 - 9</p>
-                        <p>Grades 2, 3, 4</p>
-                        </div>
-                        <div class="d-flex justify-content-between align-items-center">
-                        <a href="/register" class="stretched-link">Registration</a>
-                        </div>
-                    </div> --}}
+                <div data-tilt data-tilt-scale="1.3"  class="d-flex flex-column">
+                    <div class="card mb-4 ">
+                        <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
+                    </div>
                 </div>
-            </div>
 
 
-            <div data-tilt data-tilt-scale="1.3" data-tilt-max="3" class="d-flex flex-column">
+                <div data-tilt data-tilt-scale="1.3"  class="d-flex flex-column">
 
-                <div class="card mb-4 ">
-                    <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
+                    <div class="card mb-4 ">
+                        <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
 
-                    {{-- <div class="card-body">
-                            <div class="d-flex justify-content-between align-items-center">
-                            <p class="card-text">July 11 - 16</p>
-                            <p>Grades 4, 5, 6</p>
-                            </div>
-                            <div class="d-flex justify-content-between align-items-center">
-                            <a href="/register" class="stretched-link">Registration</a>
-                            </div>
-                    </div> --}}
+
+                    </div>
                 </div>
-            </div>
+        </div>
+    </div>
 
 
 
