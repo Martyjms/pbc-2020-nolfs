@@ -17,6 +17,8 @@
 
     <script src="https://kit.fontawesome.com/28f78f5de2.js" crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/homepage.css') }}" />
+
     <link rel="stylesheet" type="text/css" href="{{ asset('css/loading.css') }}" />
 
     <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}" />

@@ -55,15 +55,36 @@
     }
 
     .borderless {
-        background: 0 !important;
+        background-color: 0 !important;
         border: none !important;
     }
 
     .register-flex-column {
-        max-width: 750px;
+        max-width: 650px;
         padding-right: 3vh;
         padding-left: 3vh;
     }
+
+    .item-a {
+        grid-area: message;
+      }
+      .item-b {
+        grid-area: family-camp;
+      }
+      .item-c {
+          grid-area: kids-camp;
+      }
+
+    .register-container {
+        display: grid;
+        grid-template-columns: 33px 33px 33px ;
+        grid-template-rows: auto;
+        grid-template-areas:
+          "message message family-camp"
+          "message message kids-camp";
+      }
+
+
 
     /*STAFF*/
 

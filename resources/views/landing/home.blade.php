@@ -4,9 +4,53 @@
 
 @section('content')
 
+<div class="wrapper">
+    <div class="home-hero">
+      <div class="feature">
+        <h3>Director's Message</h3>
+        <p class="lead">Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.</p>
+          <p class="lead">Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
+          <p class="lead">We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
+          <p class="lead">In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
+          <p class="lead">We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
+      </div>
+
+      <div class="special">
+        {{-- <h3>Special Shapes</h3>
+        <p>Why are some of them so scary looking?</p> --}}
+
+      </div>
+
+      <div class="amazing">
+        {{-- <h3>10 things you discover when taking a balloon ride.</h3>
+        <p>Number 8 will AMAZE you.</p> --}}
+      </div>
+
+        <div class="news">
+        <h3>Family Day Camps</h3>
+        <img class="img-fluid" src="{{asset('images\RegisterNow_Family.png')}}" alt="Family Day camp register now link" />
+        </div>
+
+
+    <div class="photos"><h3>Kids' Day Camp</h3>
+        <img class="img-fluid" src="{{asset('images\RegisterNow_Kids.png')}}" alt="Family Day camp register now link" />
+    </div>
+
+
+    {{-- <div class="cta"><p>Sign up for more information about balloons. </p>
+      <a class="spam-button" href="/spam-machine">Sign me up!</a></div> --}}
+
+
+  </div>
+  </div>
+
+
+{{-- OLD CODE --}}
+
 <div class="container">
     <div class="row welcome text-center">
       <div class="col-12">
+        <h1 class="display-4">Registration Opens Tuesday April 13th!</h1>
 
         <h1 class="display-4">2021 Director's Message</h1>
         <hr>
