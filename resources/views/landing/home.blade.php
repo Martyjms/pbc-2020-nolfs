@@ -42,12 +42,16 @@
 
 
   </div>
+  <a class="top-link hide" href="" id="js-top">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
+    <span class="screen-reader-text">Back to top</span>
+  </a>
   </div>
 
 
 {{-- OLD CODE --}}
 
-<div class="container">
+{{-- <div class="container">
     <div class="row welcome text-center">
       <div class="col-12">
         <h1 class="display-4">Registration Opens Tuesday April 13th!</h1>
@@ -55,13 +59,11 @@
         <h1 class="display-4">2021 Director's Message</h1>
         <hr>
         <br>
-
           <p class="lead">Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.</p>
           <p class="lead">Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
           <p class="lead">We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
           <p class="lead">In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
           <p class="lead">We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
-
         </div>
       </div>
 
@@ -74,16 +76,6 @@
         </div>
       </div>
 
-
-
-
-
-
-
-
-
-
-
     <div class="container-fluid py-5">
 
         <div>
@@ -93,16 +85,12 @@
 
     </div>
 
-
-
-
   <a class="top-link hide" href="" id="js-top">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
     <span class="screen-reader-text">Back to top</span>
   </a>
 
-
-</div>
+</div> --}}
 
 
 

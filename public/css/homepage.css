@@ -34,26 +34,26 @@ body {
   }
 
   .feature {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo1.jpg);
+    /* background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo1.jpg);
     background-position: bottom left;
-    color: #fff;
+    color: #fff; */
   }
 
   .photos {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo2.jpg);
-    color: #fff;
+    /* background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo2.jpg);
+    color: #fff; */
   }
 
   .news {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo3.jpg);
-    color: #fff;
+    /* background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo3.jpg);
+    color: #fff; */
   }
 
   .special {
-    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)),url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo5.jpg);
+    /* background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)),url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo5.jpg);
     color: #fff;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; */
   }
 
   .special h3,
@@ -62,10 +62,10 @@ body {
   }
 
   .amazing {
-    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo4.jpg);
+    /* background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo4.jpg);
     color: #fff;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; */
   }
 
   .cta {
