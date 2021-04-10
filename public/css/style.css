@@ -559,7 +559,8 @@ div.js-tilt {
           }
 
           .d-flex.flex-row.justify-content-center{
-              flex-wrap: wrap;
+            display: flex;
+            flex-wrap: wrap;
           }
       }
 
