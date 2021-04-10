@@ -558,7 +558,7 @@ div.js-tilt {
             text-align: center;
           }
 
-          .camps.container{
+          .d-flex.flex-row.justify-content-center{
               flex-wrap: wrap;
           }
       }
