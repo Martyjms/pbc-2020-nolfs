@@ -54,6 +54,17 @@
         text-decoration: underline;
     }
 
+    .borderless {
+        background: 0 !important;
+        border: none !important;
+    }
+
+    .register-flex-column {
+        max-width: 750px;
+        padding-right: 3vh;
+        padding-left: 3vh;
+    }
+
     /*STAFF*/
 
     #due-dates p {
