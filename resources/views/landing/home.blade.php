@@ -27,12 +27,12 @@
       </div>
 
         <div class="news">
-        <h3>Family Day Camps</h3>
+
         <img class="img-fluid" src="{{asset('images\RegisterNow_Family.png')}}" alt="Family Day camp register now link" />
         </div>
 
 
-    <div class="photos"><h3>Kids' Day Camp</h3>
+    <div class="photos">
         <img class="img-fluid" src="{{asset('images\RegisterNow_Kids.png')}}" alt="Family Day camp register now link" />
     </div>
 

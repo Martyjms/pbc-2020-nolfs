@@ -23,7 +23,7 @@
 
     <div class="camps container">
 
-        <div class="d-flex flex-row flex-wrap justify-content-center">
+        <div class="d-flex flex-row  justify-content-center">
 
 
 
