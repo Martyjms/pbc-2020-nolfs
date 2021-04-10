@@ -90,7 +90,7 @@ body {
 
   @media (min-width: 400px) {
     .home-hero {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr;
     }
 
     .feature {
@@ -114,21 +114,21 @@ body {
 
   @media (min-width: 800px) {
      .home-hero {
-      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 2fr 1fr 1.5fr ;
       grid-template-rows: minmax(125px, auto) minmax(125px, auto);
       grid-auto-rows: minmax(100px, auto);
     }
     .feature {
-        grid-column: 2 / 3;
+        grid-column: 1;
         grid-row: 1 / 2;
       }
 
       .news {
-        grid-column: 5;
+        grid-column: 3;
         grid-row: 1;
       }
       .photos {
-        grid-column: 5;
+        grid-column: 3;
         grid-row: 2;
       }
     /* .photos {
