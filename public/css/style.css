@@ -557,6 +557,10 @@ div.js-tilt {
             padding-right: 200px;
             text-align: center;
           }
+
+          .camps.container{
+              flex-wrap: wrap;
+          }
       }
 
 
