@@ -119,7 +119,7 @@ body {
 
   @media (min-width: 800px) {
      .home-hero {
-      grid-template-columns: .75fr 2fr .75fr 1.25fr ;
+      grid-template-columns: .60fr 2.5fr .60fr 1.25fr ;
       grid-template-rows: minmax(125px, auto) minmax(125px, auto);
       grid-auto-rows: minmax(100px, auto);
     }

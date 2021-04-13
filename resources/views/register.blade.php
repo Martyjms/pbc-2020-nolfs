@@ -31,7 +31,9 @@
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4">
                         <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\FamilyInfo_resized.jpg')}}"  alt="Family Camp Information">
+                        <a href="https://pleasantviewcamp.campbrainregistration.com/">
                         <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
+                        </a>
                     </div>
                 </div>
 
@@ -39,7 +41,9 @@
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4 ">
                         <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\KidsInfo_resized.jpg')}}"  alt="Kids Camp Information">
+                        <a href="https://pleasantviewcamp.campbrainregistration.com/">
                         <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
+                        </a>
 
 
                     </div>
