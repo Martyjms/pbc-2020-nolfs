@@ -7,12 +7,8 @@
 <div class="wrapper">
     <div class="home-hero">
       <div class="feature">
-        <h3>Director's Message</h3>
-        <p class="lead">Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.</p>
-          <p class="lead">Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
-          <p class="lead">We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
-          <p class="lead">In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
-          <p class="lead">We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
+        <img class="img-fluid" src="{{asset('images\DirectorsMessage_resized.png')}}" alt="Family Day camp register now link" />
+
       </div>
 
       <div class="special">
@@ -27,13 +23,16 @@
       </div>
 
         <div class="news">
-
-        <img class="img-fluid" src="{{asset('images\RegisterNow_Family.png')}}" alt="Family Day camp register now link" />
+            <a href="https://pleasantviewcamp.campbrainregistration.com/">
+        <img class="img-fluid" src="{{asset('images\RegisterNow_Family_resized.jpg')}}" alt="Family Day camp register now link" />
+        </a>
         </div>
 
 
     <div class="photos">
-        <img class="img-fluid" src="{{asset('images\RegisterNow_Kids.png')}}" alt="Family Day camp register now link" />
+        <a href="https://pleasantviewcamp.campbrainregistration.com/">
+        <img class="img-fluid" src="{{asset('images\RegisterNow_Kids_resized.jpg')}}" alt="Family Day camp register now link" />
+    </a>
     </div>
 
 
@@ -57,14 +56,8 @@
         <h1 class="display-4">Registration Opens Tuesday April 13th!</h1>
 
         <h1 class="display-4">2021 Director's Message</h1>
-        <hr>
-        <br>
-          <p class="lead">Happy New Years and welcome to 2021!   We are excited to see the blessings God brings us this year.</p>
-          <p class="lead">Currently the staff of PBC and FBC are continuing to pray and seek guidance as to what our summer program will look like.  We continue to follow the guidelines the Saskatchewan health authority has put in place and hope for lesser restrictions come summer.</p>
-          <p class="lead">We are determined to have an in person camp program this year in as safe a capacity as possible.  That being said, with changes continually happening, we have not been able to make a solid plan of what that will look like yet.  We are hoping by March 15 we will be able to open registration with a clear plan as to what the program framework will be.</p>
-          <p class="lead">In the mean time, we are seeking staff and accepting applications.  Please continue to pray for the leaders as they make these decisions, that the right staff will step forward and for the provincial authorities as they navigate through all the factors that need to be considered.</p>
-          <p class="lead">We are so blessed to have the assurance and hope of Jesus Christ and are eager to continue to share the message of his peace and love this summer with our campers.</p>
-        </div>
+
+
       </div>
 
       <div class="container-fluid padding">

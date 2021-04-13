@@ -30,14 +30,16 @@
 
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4">
-                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('Photos2019\FamilyInfo.png')}}"  alt="Family Camp Information">
+                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\FamilyInfo_resized.jpg')}}"  alt="Family Camp Information">
+                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
                     </div>
                 </div>
 
 
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4 ">
-                        <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\KidsInfo.png')}}"  alt="Kids Camp Information">
+                        <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\KidsInfo_resized.jpg')}}"  alt="Kids Camp Information">
+                        <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
 
 
                     </div>
