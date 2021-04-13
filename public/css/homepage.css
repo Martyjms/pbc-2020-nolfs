@@ -28,7 +28,6 @@ body {
     display: grid;
     grid-gap: 1px;
     grid-auto-rows: minmax(50px, auto);
-    align-items: center;
   }
 
   .home-hero > * {
@@ -37,6 +36,8 @@ body {
     background-size: cover;
     background-color: #fff;
     color: #fff;
+    display: grid;
+    align-items: center;
   }
 
   .feature {
