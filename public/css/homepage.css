@@ -42,6 +42,8 @@ body {
     /* background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/hero-demo1.jpg);
     background-position: bottom left;*/
     color: #f5a706;
+    display: grid;
+    align-items: center;
   }
 
   .photos {
