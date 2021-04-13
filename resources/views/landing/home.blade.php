@@ -6,9 +6,9 @@
 
 <div class="wrapper">
     <div class="home-hero">
+
       <div class="feature">
         <img class="img-fluid" src="{{asset('images\DirectorsMessage_resized.png')}}" alt="Family Day camp register now link" />
-
       </div>
 
       <div class="special">
@@ -24,15 +24,15 @@
 
         <div class="news">
             <a href="https://pleasantviewcamp.campbrainregistration.com/">
-        <img class="img-fluid" src="{{asset('images\RegisterNow_Family_resized.jpg')}}" alt="Family Day camp register now link" />
-        </a>
+                <img class="img-fluid" src="{{asset('images\RegisterNow_Kids_resized.jpg')}}" alt="Family Day camp register now link"/>
+            </a>
         </div>
 
 
     <div class="photos">
         <a href="https://pleasantviewcamp.campbrainregistration.com/">
-        <img class="img-fluid" src="{{asset('images\RegisterNow_Kids_resized.jpg')}}" alt="Family Day camp register now link" />
-    </a>
+            <img class="img-fluid" src="{{asset('images\RegisterNow_Family_resized.jpg')}}" alt="Family Day camp register now link"/>
+        </a>
     </div>
 
 

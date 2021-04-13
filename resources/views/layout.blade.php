@@ -6,11 +6,11 @@
     <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}">
     <title>@yield('title', 'PBC 2020')</title>
 
-<!-- ---------------------------------------------------------
-    Designed by Marty Pennington of PenningtonImages
-    www.penningtonimages.com
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - -
+    Website built and maintained by Marty Pennington of Pennington Images
+    penningtonimages@gmail.com
     639 - 840 - 2809
---------------------------------------------------------- -->
+- - - - - - - - - - - - - - - - - - - - - - - - - -  -->
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
