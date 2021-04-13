@@ -103,6 +103,8 @@ body {
     .feature {
       grid-column: 1;
       grid-row: 3;
+      display: grid;
+      align-items: center;
     }
 
     .news {
@@ -128,6 +130,8 @@ body {
     .feature {
         grid-column: 2;
         grid-row: 1 / 3;
+        display: grid;
+        align-items: center;
       }
 
       .news {
