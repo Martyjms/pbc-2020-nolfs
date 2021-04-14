@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="{{ asset('images/favicon.ico') }}">
-    <title>@yield('title', 'PBC 2020')</title>
+    <title>@yield('title', 'Pleasantview Bible Camp')</title>
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - -
     Website built and maintained by Marty Pennington of Pennington Images
