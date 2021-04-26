@@ -8,7 +8,7 @@
     <div class="home-hero">
 
       <div class="feature">
-        <img class="img-fluid" src="{{asset('images\DirectorsMessage_resized.png')}}" alt="Family Day camp register now link" />
+        <img class="img-fluid" src="{{asset('images\DirectorsMessage04_2021_resized.png')}}" alt="Directors Message" />
       </div>
 
       <div class="special">
