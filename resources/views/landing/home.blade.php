@@ -119,10 +119,11 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                     <p class="card-text">July 4 - 9</p>
-                    <p>Grades 2, 3, 4</p>
+                    <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
+                    <p>Grades 2, 3, 4</p>
                     {{-- <p>$320</p> --}}
                     </div>
                 </div>
@@ -138,10 +139,11 @@
                 <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center">
                         <p class="card-text">July 11 - 16</p>
-                        <p>Grades 4, 5, 6</p>
+                        <p>Campers Entering</p>
                         </div>
                         <div class="d-flex justify-content-between align-items-center">
                         <a href="/register" class="stretched-link">Registration</a>
+                        <p>Grades 4, 5, 6</p>
                         {{-- <p>$315</p> --}}
                         </div>
                 </div>
@@ -155,10 +157,11 @@
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
                     <p class="card-text">July 18 - 23</p>
-                    <p>Grades 7, 8, 9</p>
+                    <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
+                    <p>Grades 7, 8, 9, 10</p>
                     {{-- <p>$315</p> --}}
                     </div>
                 </div>
