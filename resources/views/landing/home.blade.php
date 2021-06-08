@@ -96,7 +96,7 @@
   <div class="container-fluid padding py-5">
     <div class="row welcome text-center">
       <div class="col-12">
-        <h1 class="display-4">2021 DAYCAMPS</h1>
+        <h1 class="display-4">2021 SUMMER CAMPS</h1>
         <hr>
 
       </div>
