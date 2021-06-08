@@ -30,7 +30,7 @@
 
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4">
-                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\kidsinfo_newages_resized.jpg')}}"  alt="Kids Camp Information">
+                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\KidsInfo_day+overnight_resized.png')}}"  alt="Kids Camp Information">
                         <a href="https://pleasantviewcamp.campbrainregistration.com/">
                             <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
                         </a>
@@ -40,7 +40,7 @@
 
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4 ">
-                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\FamilyInfo_resized.jpg')}}"  alt="Family Camp Information">
+                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\FamilyInfo_png_resized.png')}}"  alt="Family Camp Information">
                         <a href="https://pleasantviewcamp.campbrainregistration.com/">
                             <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
                         </a>
