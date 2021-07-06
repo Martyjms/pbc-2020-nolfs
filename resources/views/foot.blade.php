@@ -25,7 +25,7 @@
         <hr class="light">
         <h5>Upcoming Events</h5>
         <hr class="light">
-        <li>Staff Training -- June 27</li>
+        <li>Sr High Youth Retreat -- August 27 - 29</li>
 
         <br>
         {{-- <p>Camp Cleanup  May 15 2020</p> --}}
