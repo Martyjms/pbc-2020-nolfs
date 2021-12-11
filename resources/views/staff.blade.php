@@ -3,7 +3,7 @@
 @section('content')
 
 
-<div class="container">
+<div class="container-fluid padding">
     <div class="row welcome text-center">
       <div class="col-12">
 
@@ -12,19 +12,19 @@
         <br>
 
           <p class="lead">Working at Pleasantview Bible Camp is an amazing way to spend your summer! If you are interested in working at camp please click below to begin your application online.</p>
-          <p id="due-dates">Staff application due April 1, 2022</p>
+          <p id="due-dates">Staff applications due April 1, 2022</p>
         </div>
       </div>
 
 
 
   <div class="container-fluid padding">
-  <div class="row padding ">
-        <div class="col-lg-6 p-5 ">
+  {{-- <div class="row padding "> --}}
+        {{-- <div class="col-lg-6 p-5 "> --}}
                 <img src="{{asset('images\PBCStaff2021.jpg')}}" class="img-fluid" alt="">
                 <h3 class="text-center">Application opens Dec 15 2021</h3>
-          </div>
-  <ul class="list-group ml-n4 col-lg-6 p-5">
+          {{-- </div> --}}
+  {{-- <ul class="list-group ml-n4 col-lg-6 p-5"> --}}
 
 
         {{-- <li class="list-group-item"><a href="{{asset('pdf/FBC MINISTRY APPLICATION FORM - PBC 2021.pdf')}}" download>FBC Ministry Application Form - PBC 2021</a></li>
@@ -33,11 +33,11 @@
         <li class="list-group-item"><a href="{{asset('pdf\Pleasantview Bible Camp Staff Covenant- 2021.pdf')}}" download>PBC Staff Covenant 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\FBC VOLUNTEER COVENANT 2020.pdf')}}" download>FBC Volunteer Covenant 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\PBC REFERENCE FORM 2021.pdf')}}" download>PBC Reference Form 2021</a></li> --}}
-      </ul>
+      {{-- </ul> --}}
 
-    </div>
+    {{-- </div> --}}
 </div>
-</div>
+
 
 
 <div class="container">
@@ -56,6 +56,7 @@
                 <br>
                 <h1>When does LIT run?</h1>
                 <div class="lead">If you would like to participate in this program, you must be willing to dedicate at least four weeks of your summer to camp. The four weeks will include June 26-30* (Staff Training), July 10-15 (LIT Week 1), July 17-22 (LIT Week 2), and at least one of the following weeks: July 24-29/Aug 1-5/Aug 7-12. The two LIT weeks are specifically dedicated to studying God’s Word and learning about Camp Ministry.
+                    <br>
                 <p>*The exact dates for staff training may change but will fall within this time period</p>
                 </div>
 
@@ -72,11 +73,12 @@
                     <div class="row welcome text-center">
                       <div class="col-12">
                 <div class="lead">If you have any questions about being staff or an LIT at camp please contact Kenton Giesbrecht, LIT Director
-                    at (780) 871-2129 (call or text) or email
+                    at (780) 871-2129 (call or text) or email:
                      <span class="lowercase">kenton@fbclloyd.ca</span>
+                     <br>
 
-                    <div class="lead">If you have any questions about the application process, please contact the camp office at (306) 825 2461,
-                        <span style="text-transform: lowercase;">info@pleasantviewcamp.org</span>
+                    <div class="lead">If you have any questions about the application process please contact the camp office at (306) 825 2461 or email:
+                        <span class="lowercase">info@pleasantviewcamp.org</span>
                     </div>
 
                    </div>
@@ -84,9 +86,7 @@
                     </div>
                     </div>
                     </div>
-                    <br>
-                    <br>
-                    <br>
+
 
 
             {{-- <div class="container-fluid padding">
@@ -104,6 +104,8 @@
 
             </div>
             </div> --}}
+</div>
+</div>
 </div>
 
   @endsection
