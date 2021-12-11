@@ -12,7 +12,7 @@
         <br>
 
           <p class="lead">Working at Pleasantview Bible Camp is an amazing way to spend your summer! If you are interested in working at camp please click below to begin your application online.</p>
-          <p id="due-dates">Staff application due April 1/22</p>
+          <p id="due-dates">Staff application due April 1, 2022</p>
         </div>
       </div>
 
@@ -21,11 +21,12 @@
   <div class="container-fluid padding">
   <div class="row padding ">
         <div class="col-lg-6 p-5 ">
-                <img src="{{asset('public\images\PBCStaff2021.jpg')}}" class="img-fluid" alt="">
+                <img src="{{asset('images\PBCStaff2021.jpg')}}" class="img-fluid" alt="">
+                <h3 class="text-center">Application opens Dec 15 2021</h3>
           </div>
   <ul class="list-group ml-n4 col-lg-6 p-5">
-        <h3 class="text-center">PBC Staff Application Forms</h3>
-        <p>Applications open Dec 15 2021</p>
+
+
         {{-- <li class="list-group-item"><a href="{{asset('pdf/FBC MINISTRY APPLICATION FORM - PBC 2021.pdf')}}" download>FBC Ministry Application Form - PBC 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\FBC MINISTRY APPLICATION FORM - ADULT 2020.pdf')}}" download>FBC Ministry Application Form - Adult 2021</a></li>
         <li class="list-group-item"><a href="{{asset('pdf\FBC MINISTRY APPLICATION FORM - YOUTH 2020.pdf')}}" download>FBC Ministry Application Form - Youth 2021</a></li>
@@ -46,7 +47,7 @@
                 <hr>
                 <br>
                 <h1>Who is LIT for?</h1>
-                <p class="lead">This program is for anyone who is ready to let God use them to do amazing things at Pleasantview this summer! We are looking for passionate people who care for kids, are team orientated, are willing to stay up late, get up early, and use their gifts to share the gospel. It is at camp that future LIT’s (that’s you!) will find community, grow in your faith, and develop new skills. If a summer filled with friendship, ministry, laughter, and growth in your relationship with God, sounds good… then this is the place for you!</p>
+                <p class="lead">This program is for anyone who is ready to let God use them to do amazing things at Pleasantview this summer! We are looking for passionate people who care for kids, are team orientated, are willing to stay up late, get up early, and use their gifts to share the gospel. It is at camp that future LITs (that’s you!) will find community, grow in your faith, and develop new skills. If a summer filled with friendship, ministry, laughter, and growth in your relationship with God, sounds good… then this is the place for you!</p>
                 <div class="lead">Applicants must be at least 15 and going into grade 10 in 2022.</div>
                 <br>
                 <h1>What is LIT all about?</h1>
@@ -70,10 +71,10 @@
                 <div class="container">
                     <div class="row welcome text-center">
                       <div class="col-12">
-                <div class="lead">If you have any questions about being staff or an LIT at camp, please contact Kenton Giesbrecht, LIT Director,
+                <div class="lead">If you have any questions about being staff or an LIT at camp please contact Kenton Giesbrecht, LIT Director
                     at (780) 871-2129 (call or text) or email
-                    <p>text-transform: lowercase<span>kenton@fbclloyd.ca</span></p>
-                    </div>
+                     <span style="text-transform: lowercase">kenton@fbclloyd.ca</span>
+
                       <p>If you have any questions about the application process, please contact the camp office at (306) 825 2461,
                         <p>text-transform: lowercase<span>info@pleasantviewcamp.org</span></p></p>
                    </div>
