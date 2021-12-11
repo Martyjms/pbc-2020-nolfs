@@ -73,10 +73,12 @@
                       <div class="col-12">
                 <div class="lead">If you have any questions about being staff or an LIT at camp please contact Kenton Giesbrecht, LIT Director
                     at (780) 871-2129 (call or text) or email
-                     <span style="text-transform: lowercase">kenton@fbclloyd.ca</span>
+                     <span class="lowercase">kenton@fbclloyd.ca</span>
 
-                      <p>If you have any questions about the application process, please contact the camp office at (306) 825 2461,
-                        <p>text-transform: lowercase<span>info@pleasantviewcamp.org</span></p></p>
+                    <div class="lead">If you have any questions about the application process, please contact the camp office at (306) 825 2461,
+                        <span style="text-transform: lowercase;">info@pleasantviewcamp.org</span>
+                    </div>
+
                    </div>
                     </div>
                     </div>
