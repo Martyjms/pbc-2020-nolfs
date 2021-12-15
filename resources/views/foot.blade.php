@@ -4,7 +4,7 @@
   <div class="container-fluid padding">
     <div class="row text-center">
       <div class="col-md-3">
-      <img  src="{{asset('images\camp_logo_2022_peace_large.jpg')}}" alt="Plesantview Bible Camp Logo">
+      <img  src="{{asset('images\Camp_logo_2022_peace.jpg')}}" alt="Plesantview Bible Camp Logo 2022 - Peace">
 
       </div>
 
@@ -25,7 +25,7 @@
         <hr class="light">
         <h5>Upcoming Events</h5>
         <hr class="light">
-        <li>Staff & LIT applications open - DEC 15 2021</li>
+        <li>Staff & LIT applications open -- DEC 15 2021</li>
 
         <br>
         {{-- <p>Camp Cleanup  May 15 2020</p> --}}

@@ -32,6 +32,9 @@
 
 
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Righteous&display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Neucha&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cabin+Sketch:700|Open+Sans:600&display=swap" rel="stylesheet">

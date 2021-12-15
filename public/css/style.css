@@ -6,18 +6,21 @@
         /* font-family: 'Nunito', sans-serif; */
         /* font-family: 'Neucha', cursive; */
         /* font-family: 'Open Sans', sans-serif; */
-        font-family: 'cubano', sans-serif;
+        font-family: 'Montserrat', sans-serif;
+        /* font-family: 'cubano', sans-serif; USED IN 2021*/
         padding:0;
         margin:0;
         /* background-color:#f4eeea; */
         /* background-color:#fff; */
         /* color:rgb(191, 168, 147); */
+
         color: #f5a706;
     }
 
     h1, h2, h3, h4 {
         /* font-family: 'Neucha', cursive; */
-        font-family: 'Cabin Sketch', cursive;
+        font-family: 'Righteous', cursive;
+        /* font-family: 'Cabin Sketch', cursive; USED IN 2021*/
     }
 
     small {
