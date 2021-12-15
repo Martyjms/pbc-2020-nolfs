@@ -12,6 +12,11 @@
         <br>
 
           <p class="lead">Working at Pleasantview Bible Camp is an amazing way to spend your summer! If you are interested in working at camp please click below to begin your application online.</p>
+
+          <a href="https://pleasantviewcamp.campbrainstaff.com/" >
+            <h1 class="display-4">Apply Now</h1>
+        </a>
+
           <p id="due-dates">Staff applications due April 1, 2022</p>
         </div>
       </div>
@@ -22,9 +27,7 @@
   {{-- <div class="row padding "> --}}
         {{-- <div class="col-lg-6 p-5 "> --}}
                 <img src="{{asset('images\PBCStaff2021.jpg')}}" class="img-fluid" alt="">
-                <a href="https://pleasantviewcamp.campbrainstaff.com/" class="stretched-link">
-                    <h3 class="text-center">APPLY NOW!</h3>
-                </a>
+
 
           {{-- </div> --}}
   {{-- <ul class="list-group ml-n4 col-lg-6 p-5"> --}}
@@ -71,6 +74,11 @@
                 <br>
                 <h1>How do I join LIT?</h1>
                 <div class="lead">If you are interested in applying click below to begin your application. Remember, space in the program is limited, so complete your application and return it to us as soon as possible. Applications are due by April 1, 2022.</div>
+
+                <a href="https://pleasantviewcamp.campbrainstaff.com/" >
+                    <h1 class="display-4">Apply Now</h1>
+                </a>
+
                 <br>
                 <div class="container">
                     <div class="row welcome text-center">

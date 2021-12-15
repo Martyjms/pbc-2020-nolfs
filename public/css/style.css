@@ -455,6 +455,7 @@ div.js-tilt {
 
     /* Highlight Video */
 
+/*  COMMENTED OUT IN 2021
 
     .pb-video-container {
         padding-top: 20px;
@@ -470,7 +471,7 @@ div.js-tilt {
   .form-control.label-warning.text-center{
     color: #f5a706 !important;
     font-family: 'cubano', sans-serif;
-  }
+  }*/
 
         /* .pb-video:hover {
             background: #2c3e50;
