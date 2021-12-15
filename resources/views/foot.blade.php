@@ -4,7 +4,7 @@
   <div class="container-fluid padding">
     <div class="row text-center">
       <div class="col-md-3">
-      <img  src="{{asset('images\PBC 2021 - Resized large.jpg')}}" alt="Plesantview Bible Camp Logo">
+      <img  src="{{asset('images\camp_logo_2022_peace_large.jpg')}}" alt="Plesantview Bible Camp Logo">
 
       </div>
 
@@ -25,7 +25,7 @@
         <hr class="light">
         <h5>Upcoming Events</h5>
         <hr class="light">
-        <li>Sr High Youth Retreat -- August 27 - 29</li>
+        <li>Staff & LIT applications open - DEC 15 2021</li>
 
         <br>
         {{-- <p>Camp Cleanup  May 15 2020</p> --}}

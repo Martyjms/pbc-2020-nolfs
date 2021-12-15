@@ -18,11 +18,14 @@
 
 
 
-  <div class="container-fluid padding">
+  <div class="container padding">
   {{-- <div class="row padding "> --}}
         {{-- <div class="col-lg-6 p-5 "> --}}
                 <img src="{{asset('images\PBCStaff2021.jpg')}}" class="img-fluid" alt="">
-                <h3 class="text-center">Application opens Dec 15 2021</h3>
+                <a href="https://pleasantviewcamp.campbrainstaff.com/" class="stretched-link">
+                    <h3 class="text-center">APPLY NOW!</h3>
+                </a>
+
           {{-- </div> --}}
   {{-- <ul class="list-group ml-n4 col-lg-6 p-5"> --}}
 
