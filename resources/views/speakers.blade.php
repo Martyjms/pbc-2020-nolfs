@@ -15,7 +15,7 @@
       </div>
 
 
-     <div class="container-fluid padding">
+     {{-- <div class="container-fluid padding">
     <h1 class="text-center">Curtis & Bonnie - Primary</h1>
     <div class="row padding ">
         <div class="col-lg-6 p-5 ">
@@ -41,10 +41,10 @@
                 <img src="{{asset('Photos2019\Gianne Stover.png')}}" class="img-fluid" alt="">
         </div>
         </div>
-        </div>
+        </div> --}}
 
         <div class="container-fluid padding">
-        <h1 class="text-center">Randy Carter - Junior High 1</h1>
+        <h1 class="text-center">Randy Carter</h1>
         <div class="row padding ">
             <div class="col-lg-6 p-5 ">
                     <img src="{{asset('images\randy carter.jpg')}}" class="img-fluid" alt="">
@@ -56,6 +56,11 @@
         </div>
         </div>
         </div>
+
+        <div class="container-fluid padding">
+            <h1 class="text-center">ADDITIONAL SPEAKERS WILL BE ADDED SOON!</h1>
+
+            </div>
 
 
 

@@ -96,9 +96,9 @@
   <div class="container-fluid padding py-5">
     <div class="row welcome text-center">
       <div class="col-12">
-        <h1 class="display-4">2021 SUMMER CAMPS</h1>
+        <h1 class="display-4">Welcome to Pleasantview Biblecamp 2022!</h1>
         <hr>
-
+        <p class="lead">We are excited to offer a regular season of camp this summer!</p>
       </div>
     </div>
   </div>
@@ -112,18 +112,18 @@
 
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">PRIMARY</h1>
+            <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}"  alt="PRIMARY">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\sr.high.43-resized.jpg')}}"  alt="PRIMARY">
 
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    <p class="card-text">July 5 - 9</p>
+                    <p class="card-text">July 3 - 9</p>
                     <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>Grades 2 - 4</p>
+                    <p>Grades 10 - 12 & 2022 Graduates</p>
                     {{-- <p>$320</p> --}}
                     </div>
                 </div>
@@ -132,13 +132,13 @@
 
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">PRETEEN</h1>
+            <h1 class="display-4 mx-auto text-center">PRETEEN 1</h1>
             <div class="card mb-4 shadow-sm">
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen1-43-resized.jpg')}}"  alt="PRETEEN ">
 
                 <div class="card-body">
                         <div class="d-flex justify-content-between align-items-center">
-                        <p class="card-text">July 12 - 16</p>
+                        <p class="card-text">July 10 - 15</p>
                         <p>Campers Entering</p>
                         </div>
                         <div class="d-flex justify-content-between align-items-center">
@@ -151,35 +151,35 @@
         </div>
 
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">JR HIGH</h1>
+            <h1 class="display-4 mx-auto text-center">JR HIGH 1</h1>
             <div class="card mb-4 shadow-sm">
               <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\jr high 1.jpg')}}"  alt="JR HIGH">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    <p class="card-text">July 19 - 23</p>
+                    <p class="card-text">July 17 - 22</p>
                     <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>Grades 7 - 10</p>
+                    <p>Grades 7 - 9</p>
                     {{-- <p>$315</p> --}}
                     </div>
                 </div>
             </div>
         </div>
 
-        {{-- <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
+         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">PRE-TEEN 2</h1>
             <div class="card mb-4 shadow-sm">
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\preteen-43.jpg')}}" alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    <p class="card-text">July 26 - 31</p>
-                    <p>Grades 4, 5, 6</p>
+                    <p class="card-text">July 24 - 29</p>
+                    <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>$315</p>
+                    <p>Grades 4 - 6</p>
                     </div>
                 </div>
             </div>
@@ -191,12 +191,12 @@
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\primary-43.jpg')}}" alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    <p class="card-text">August 3 - 7</p>
-                    <p>Grades 2, 3, 4</p>
+                    <p class="card-text">August 1 - 5</p>
+                    <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>$290</p>
+                    <p>Grades 2 - 4</p>
                     </div>
                 </div>
             </div>
@@ -208,16 +208,16 @@
                 <img class="img-fluid card-img-top"  background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\IMG_7712-43.jpg')}}"  alt="Fun in the sand">
                 <div class="card-body">
                     <div class="d-flex justify-content-between align-items-center">
-                    <p class="card-text">August 9 - 14</p>
-                    <p>Grades 7, 8, 9</p>
+                    <p class="card-text">August 7 - 12</p>
+                    <p>Campers Entering</p>
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>$315</p>
+                    <p>Grades 7 - 9</p>
                     </div>
                 </div>
             </div>
-        </div> --}}
+        </div>
 </div>
 </div>
 
@@ -236,7 +236,7 @@
         <h1 class="display-4">Did you know?</h1>
         <hr>
         <div class="col-12">
-        <p class="lead">Pleasantview Bible Camp is an extension of First Baptist Church in Lloydminster, Alberta.
+        <p class="lead">Pleasantview Bible Camp is an extension of First Baptist Church in Lloydminster, Alberta.</p>
         <br>
         <br>
         <a href="http://www.fbclloyd.ca" ><button type="button" class="btn btn-primary btn-lg">FBC Lloyd Website</button></a>
