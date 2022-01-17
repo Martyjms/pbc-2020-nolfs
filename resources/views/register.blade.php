@@ -30,10 +30,18 @@
                     <div class="borderless card mb-4">
                         <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\2022 Camp Registration.jpg')}}"  alt="Kids Camp Information">
                         <a href="https://pleasantviewcamp.campbrainregistration.com/">
-                            <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\2022 Register Kids Button.jpg')}}"  alt="Register now button">
+                            <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('public\images\2022 Register Kids Button.jpg')}}"  alt="Register now button">
                         </a>
                     </div>
                 </div>
+                <div   class="d-flex register-flex-column">
+                  <div class="borderless card mb-4">
+                      <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\KidsInfo_day+overnight_resized.png')}}"  alt="Kids Camp Information">
+                      <a href="https://pleasantviewcamp.campbrainregistration.com/">
+                          <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
+                      </a>
+                  </div>
+              </div>
 
         </div>
     </div>
@@ -45,9 +53,9 @@
 
                 <div   class="d-flex register-flex-column">
                     <div class="borderless card mb-4">
-                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\2022 Family Day Camps.jpg')}}"  alt="Kids Camp Information">
+                        <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\KidsInfo_day+overnight_resized.png')}}"  alt="Kids Camp Information">
                         <a href="https://pleasantviewcamp.campbrainregistration.com/">
-                            <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\2022 Register Family Day Camps Button.jpg')}}"  alt="Register now button">
+                            <img class="img-fluid card-img-top"   text="Thumbnail"src="{{ asset('images\ButtonRegisterNow.png')}}"  alt="Register now button">
                         </a>
                     </div>
                 </div>
