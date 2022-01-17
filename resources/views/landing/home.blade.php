@@ -4,23 +4,17 @@
 
 @section('content')
 
-<div class="wrapper">
+{{-- <div class="wrapper">
     <div class="home-hero">
 
       <div class="feature">
         <img class="img-fluid" src="{{asset('images\DirectorsMessage04_2021_resized.png')}}" alt="Directors Message" />
       </div>
 
-      <div class="special">
-        {{-- <h3>Special Shapes</h3>
-        <p>Why are some of them so scary looking?</p> --}}
 
       </div>
 
-      <div class="amazing">
-        {{-- <h3>10 things you discover when taking a balloon ride.</h3>
-        <p>Number 8 will AMAZE you.</p> --}}
-      </div>
+
 
         <div class="news">
             <a href="https://pleasantviewcamp.campbrainregistration.com/">
@@ -33,14 +27,15 @@
         <a href="https://pleasantviewcamp.campbrainregistration.com/">
             <img class="img-fluid" src="{{asset('images\RegisterNow_Family_resized.jpg')}}" alt="Family Day camp register now link"/>
         </a>
-    </div>
+    </div> --}}
 
 
     {{-- <div class="cta"><p>Sign up for more information about balloons. </p>
-      <a class="spam-button" href="/spam-machine">Sign me up!</a></div> --}}
+      <a class="spam-button" href="/spam-machine">Sign me up!</a></div>
+
+  </div>--}}
 
 
-  </div>
   <a class="top-link hide" href="" id="js-top">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
     <span class="screen-reader-text">Back to top</span>

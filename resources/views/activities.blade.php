@@ -69,13 +69,13 @@
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">Archery</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\archery.jpg')}}"  alt="Sr High games">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\2021_archery_15%.jpg')}}"  alt="Sr High games">
             </div>
         </div>
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">Disc Golf</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\disc-golf-resized.jpg')}}"  alt="Sr High games">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\2021_discgolf_15%.jpg')}}"  alt="Sr High games">
             </div>
         </div>
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
@@ -98,12 +98,23 @@
             </div>
         </div>
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
-            <h1 class="display-4 mx-auto text-center">And Much, Much More</h1>
+            <h1 class="display-4 mx-auto text-center">Canoeing</h1>
             <div class="card mb-4 shadow-sm">
-              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\beach-day.jpeg')}}"  alt="Sr High games">
+              <img class="img-fluid card-img-top" background="#55595c" color="#eceeef"  text="Thumbnail"src="{{ asset('Photos2019\2021_canoe_15%.jpg')}}"  alt="Sr High games">
             </div>
         </div>
 
+        <div class="container-fluid padding">
+            <div class="row welcome text-center">
+              <div class="col-12">
+                  <br>
+                <h2 class="display-4">And Much, Much, More!</h2>
+                <hr>
+
+
+                </div>
+              </div>
+            </div>
 
 </div>
 </section>
