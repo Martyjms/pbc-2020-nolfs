@@ -98,6 +98,15 @@
     </div>
   </div>
 
+  <div class="container-fluid padding py-5">
+    <div class="row welcome text-center">
+      <div class="col-12">
+        <h1 class="display-4">Registration Opens January 24 at 9:00 a.m.</h1>
+        <hr>
+      </div>
+    </div>
+  </div>
+
 
 <div class="camps container">
 

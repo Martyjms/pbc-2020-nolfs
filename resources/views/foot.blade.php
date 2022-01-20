@@ -25,7 +25,7 @@
         <hr class="light">
         <h5>Upcoming Events</h5>
         <hr class="light">
-        <li>Staff & LIT applications open -- DEC 15 2021</li>
+        <li>Staff & LIT applications due -- April 1 2022</li>
 
         <br>
         {{-- <p>Camp Cleanup  May 15 2020</p> --}}
