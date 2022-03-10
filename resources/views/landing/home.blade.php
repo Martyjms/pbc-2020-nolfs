@@ -101,20 +101,19 @@
   <div class="container-fluid padding py-5">
     <div class="row welcome text-center">
       <div class="col-12">
-        <h1 class="display-4">Registration Opens January 24 at 9:00 a.m.</h1>
+        <h1 class="display-4">Registration Is Now Open!!</h1>
         <hr>
       </div>
     </div>
   </div>
 
 
+  <div class="container padding">
+    <img src="{{asset('images\Camp_logo_2022_peace.jpg')}}" class="img-fluid" alt="">
+  </div>
+
 <div class="camps container">
-
     <div class="d-flex flex-row flex-wrap justify-content-center">
-
-
-
-
         <div data-tilt data-tilt-scale="1.1" data-tilt-max="3" class="d-flex flex-column">
             <h1 class="display-4 mx-auto text-center">SR HIGH</h1>
             <div class="card mb-4 shadow-sm">

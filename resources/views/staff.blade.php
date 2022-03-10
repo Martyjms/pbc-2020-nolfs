@@ -13,6 +13,8 @@
 
           <p class="lead">Working at Pleasantview Bible Camp is an amazing way to spend your summer! If you are interested in working at camp please click below to begin your application online.</p>
 
+          <p class="lead">Staff training runs from 7:00 p.m. on Sunday, June 26th to 7:00 p.m. on Thursday, June 30th</p>
+
           <a href="https://pleasantviewcamp.campbrainstaff.com/" >
             <h1 class="display-4">Apply Now</h1>
         </a>
@@ -63,7 +65,7 @@
                 <h1>When does LIT run?</h1>
                 <div class="lead">If you would like to participate in this program, you must be willing to dedicate at least four weeks of your summer to camp. The four weeks will include June 26-30* (Staff Training), July 10-15 (LIT Week 1), July 17-22 (LIT Week 2), and at least one of the following weeks: July 24-29/Aug 1-5/Aug 7-12. The two LIT weeks are specifically dedicated to studying God’s Word and learning about Camp Ministry.
                     <br>
-                <p>*The exact dates for staff training may change but will fall within this time period</p>
+                    <p class="lead">Staff training runs from 7:00 p.m. on Sunday, June 26th to 7:00 p.m. on Thursday, June 30th</p>
                 </div>
 
                 <br>

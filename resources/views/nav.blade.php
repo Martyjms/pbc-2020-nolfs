@@ -22,8 +22,8 @@
                       <div class="dropdown-divider"></div> --}}
                       <a href="/map" class="dropdown-item">Contact & Directions</a>
                       <div class="dropdown-divider"></div>
-                      <a href="/speakers" class="dropdown-item">Camp Speakers</a>
-                      <div class="dropdown-divider"></div>
+                      {{-- <a href="/speakers" class="dropdown-item">Camp Speakers</a>
+                      <div class="dropdown-divider"></div> --}}
                       <a href="/register" class="dropdown-item">Registration</a>
                       <div class="dropdown-divider"></div>
                       <a href="/director" class="dropdown-item">Meet the Director</a>
