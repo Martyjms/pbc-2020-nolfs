@@ -108,7 +108,7 @@
   </div>
 
 
-  <div class="container padding">
+  <div class="container-fluid padding">
     <img src="{{asset('images\Camp_logo_2022_peace.jpg')}}" class="img-fluid" alt="">
   </div>
 
@@ -126,7 +126,8 @@
                     </div>
                     <div class="d-flex justify-content-between align-items-center">
                     <a href="/register" class="stretched-link">Registration</a>
-                    <p>Grades 10 - 12 & 2022 Graduates</p>
+                    <p>Grades 10 - 12</p>
+                    <p>& 2022 Graduates</p>
                     {{-- <p>$320</p> --}}
                     </div>
                 </div>
